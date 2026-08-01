@@ -4,3 +4,4 @@ from dataclasses import dataclass
 class Team:
     id: str
     name: str
+        

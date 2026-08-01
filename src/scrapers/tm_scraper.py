@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
 from models.team import Team
-from parsers.parser import Parser
+from parsers.base_parser import Parser
 from collections.abc import Sequence
 import pandas as pd
 import httpx 
@@ -13,7 +13,7 @@ class TmScraper:
     parsers: Sequence[Parser]
     year: int 
     url: str = (
-        "https://www.transfermarkt.de/{name}/kader/verein/{id}}/saison_id/{year}]/plus/1"
+        "https://www.transfermarkt.de/{name}/kader/verein/{id}/saison_id/{year}/plus/1"
         )
 
     def run(self) -> pd.DataFrame: 
@@ -22,7 +22,7 @@ class TmScraper:
         print(f"Scraping: {self.team.name} - {self.year}")
         soup = self._get_soup_content(url)
         data = pd.concat(
-            [parser.parse(soup) for parser in self.parser], axis=1)
+            [parser.parse(soup) for parser in self.parsers], axis=1)
         data["season"] = self.year #add season to dataframe
         data["team"] = self.team.name # add team name to dataframe
         return data
@@ -43,5 +43,3 @@ class TmScraper:
         except httpx.HTTPError as e: 
             print(f"HTTP error occured: {e}")
             raise e
-        
-
