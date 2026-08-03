@@ -13,10 +13,11 @@ class PlayerParser(Parser):
         numbers = stats[0::8]
         ages = stats[1::8]
         countries = stats[2::8]
-        heights = stats[4::8]
-        feet = stats[5::8]
-        joined_dates = stats[6::8]
-        transfers = stats[7::8]
+        heights = stats[3::8]
+        feet = stats[4::8]
+        # joined_club = stats[5::8]
+        transfers = stats[6::8]
+        contract = stats[7::8]
 
         players = []
 
@@ -31,8 +32,8 @@ class PlayerParser(Parser):
                     if heights[index].text else None,
                 "foot": feet[index].text.strip()
                     if feet[index].text else None,
-                "joined_date": joined_dates[index].text.strip()
-                    if joined_dates[index].text else None, 
+                "contract": contract[index].text.strip()
+                    if contract[index].text else None, 
                 "signed_from": self._parse_signed_from(transfers[index]),
                 "signing_fee": self._parse_fee(transfers[index]),
                 "position": self._parse_position(positions[index])
@@ -59,7 +60,7 @@ class PlayerParser(Parser):
         img = element.find("img")
         return img.get("title") if img else None
     
-    def _parse_signed_from(self, element): 
+    def _parse_signed_from(self, element):
         link = element.find("a")
         if not link: 
             return None
