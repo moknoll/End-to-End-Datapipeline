@@ -1,0 +1,551 @@
+,name,number,dob,age,country,height,foot,contract,signed_from,signing_fee,position,market_value,season,team
+0,Jonas Urbig,40,2003-08-08,22,Deutschland,189.0,beidfüßig,2029-06-30,1.FC Köln,7000000.0,Torwart,18000000.0,2026,fc-bayern-munchen
+1,Manuel Neuer,1,1986-03-27,40,Deutschland,193.0,rechts,2027-06-30,FC Schalke 04,30000000.0,Torwart,4000000.0,2026,fc-bayern-munchen
+2,Sven Ulreich,26,1988-08-03,38,Deutschland,192.0,rechts,2027-06-30,Hamburger SV,,Torwart,500000.0,2026,fc-bayern-munchen
+3,Dayot Upamecano,2,1998-10-27,27,Frankreich,186.0,rechts,2030-06-30,RB Leipzig,42500000.0,Innenverteidiger,75000000.0,2026,fc-bayern-munchen
+4,Jonathan Tah,4,1996-02-11,30,Deutschland,195.0,rechts,2029-06-30,Bayer 04 Leverkusen,2000000.0,Innenverteidiger,28000000.0,2026,fc-bayern-munchen
+5,Min-jae Kim,3,1996-11-15,29,Südkorea,190.0,rechts,2028-06-30,SSC Neapel,50000000.0,Innenverteidiger,20000000.0,2026,fc-bayern-munchen
+6,Hiroki Ito,21,1999-05-12,27,Japan,188.0,links,2028-06-30,VfB Stuttgart,23500000.0,Innenverteidiger,18000000.0,2026,fc-bayern-munchen
+7,Tarek Buchmann,28,2005-02-28,21,Deutschland,188.0,rechts,2027-06-30,FC Bayern München U19,,Innenverteidiger,300000.0,2026,fc-bayern-munchen
+8,Nathaniel Brown,11,2003-06-16,23,Deutschland,176.0,links,2031-06-30,Eintracht Frankfurt,50000000.0,Linker Verteidiger,50000000.0,2026,fc-bayern-munchen
+9,Alphonso Davies,19,2000-11-02,25,Kanada,183.0,links,2030-06-30,Vancouver Whitecaps FC,14000000.0,Linker Verteidiger,40000000.0,2026,fc-bayern-munchen
+10,Josip Stanisic,44,2000-04-02,26,Kroatien,187.0,beidfüßig,2029-06-30,FC Bayern München II,,Rechter Verteidiger,40000000.0,2026,fc-bayern-munchen
+11,Konrad Laimer,27,1997-05-27,29,Österreich,180.0,rechts,2029-06-30,RB Leipzig,,Rechter Verteidiger,32000000.0,2026,fc-bayern-munchen
+12,Sacha Boey,23,2000-09-13,25,Frankreich,178.0,rechts,2028-06-30,Galatasaray,30000000.0,Rechter Verteidiger,10000000.0,2026,fc-bayern-munchen
+13,Aleksandar Pavlovic,45,2004-05-03,22,Deutschland,188.0,beidfüßig,2029-06-30,FC Bayern München II,,Defensives Mittelfeld,90000000.0,2026,fc-bayern-munchen
+14,Joshua Kimmich,6,1995-02-08,31,Deutschland,177.0,rechts,2029-06-30,VfB Stuttgart,9500000.0,Defensives Mittelfeld,35000000.0,2026,fc-bayern-munchen
+15,João Palhinha,16,1995-07-09,31,Portugal,190.0,rechts,2028-06-30,FC Fulham,51000000.0,Defensives Mittelfeld,15000000.0,2026,fc-bayern-munchen
+16,David Santos Daiber,47,2007-01-10,19,Portugal,185.0,rechts,2030-06-30,,,Defensives Mittelfeld,3000000.0,2026,fc-bayern-munchen
+17,Tom Bischof,8,2005-06-28,21,Deutschland,176.0,links,2029-06-30,TSG 1899 Hoffenheim,300000.0,Zentrales Mittelfeld,40000000.0,2026,fc-bayern-munchen
+18,Felipe Chávez,30,2007-04-10,19,Peru,177.0,beidfüßig,2027-06-30,FC Bayern München II,,Zentrales Mittelfeld,4000000.0,2026,fc-bayern-munchen
+19,Jamal Musiala,10,2003-02-26,23,Deutschland,184.0,rechts,2030-06-30,FC Bayern München U19,,Offensives Mittelfeld,100000000.0,2026,fc-bayern-munchen
+20,Lennart Karl,42,2008-02-22,18,Deutschland,168.0,links,2029-06-30,FC Bayern München U19,,Offensives Mittelfeld,60000000.0,2026,fc-bayern-munchen
+21,Ismael Saibari,34,2001-01-28,25,Marokko,185.0,rechts,2031-06-30,PSV Eindhoven,50000000.0,Offensives Mittelfeld,55000000.0,2026,fc-bayern-munchen
+22,Arijon Ibrahimovic,22,2005-12-11,20,Deutschland,178.0,rechts,2028-06-30,FC Bayern München U19,,Offensives Mittelfeld,10000000.0,2026,fc-bayern-munchen
+23,Luis Díaz,14,1997-01-13,29,Kolumbien,179.0,rechts,2029-06-30,FC Liverpool,70000000.0,Linksaußen,70000000.0,2026,fc-bayern-munchen
+24,Bryan Zaragoza,,2001-09-09,24,Spanien,164.0,rechts,2029-06-30,FC Granada,13000000.0,Linksaußen,8000000.0,2026,fc-bayern-munchen
+25,Michael Olise,17,2001-12-12,24,Frankreich,180.0,links,2029-06-30,Crystal Palace,53000000.0,Rechtsaußen,170000000.0,2026,fc-bayern-munchen
+26,Serge Gnabry,7,1995-07-14,31,Deutschland,176.0,rechts,2028-06-30,SV Werder Bremen,8000000.0,Hängende Spitze,18000000.0,2026,fc-bayern-munchen
+27,Armindo Sieb,36,2003-02-17,23,Deutschland,175.0,beidfüßig,2027-06-30,SpVgg Greuther Fürth,1500000.0,Hängende Spitze,2500000.0,2026,fc-bayern-munchen
+28,Harry Kane,9,1993-07-28,33,England,188.0,rechts,2027-06-30,Tottenham Hotspur,95000000.0,Mittelstürmer,60000000.0,2026,fc-bayern-munchen
+29,Maarten Vandevoordt,26,2002-02-26,24,Belgien,192.0,rechts,2030-06-30,KRC Genk,10000000.0,Torwart,15000000.0,2026,rasenballsport-leipzig
+30,Ørjan Nyland,1,1990-09-10,35,Norwegen,192.0,rechts,2028-06-30,FC Sevilla,,Torwart,800000.0,2026,rasenballsport-leipzig
+31,Leopold Zingerle,25,1994-04-10,32,Deutschland,182.0,rechts,2028-06-30,SC Paderborn 07,,Torwart,300000.0,2026,rasenballsport-leipzig
+32,Castello Lukeba,23,2002-12-17,23,Frankreich,184.0,links,2029-06-30,Olympique Lyon,30000000.0,Innenverteidiger,50000000.0,2026,rasenballsport-leipzig
+33,Maxime Estève,3,2002-05-26,24,Frankreich,193.0,links,2031-06-30,FC Burnley,25000000.0,Innenverteidiger,28000000.0,2026,rasenballsport-leipzig
+34,El Chadaille Bitshiabu,5,2005-05-16,21,Frankreich,196.0,links,2029-06-30,Paris Saint-Germain,15000000.0,Innenverteidiger,18000000.0,2026,rasenballsport-leipzig
+35,Abdoul Koné,2,2005-04-22,21,Frankreich,192.0,rechts,2031-06-30,Stade Reims,17000000.0,Innenverteidiger,15000000.0,2026,rasenballsport-leipzig
+36,Willi Orbán,4,1992-11-03,33,Ungarn,186.0,rechts,2027-06-30,1.FC Kaiserslautern,2000000.0,Innenverteidiger,5000000.0,2026,rasenballsport-leipzig
+37,Lukas Klostermann,16,1996-06-03,30,Deutschland,189.0,rechts,2028-06-30,VfL Bochum,1000000.0,Innenverteidiger,3500000.0,2026,rasenballsport-leipzig
+38,David Raum,22,1998-04-22,28,Deutschland,181.0,links,2027-06-30,TSG 1899 Hoffenheim,26000000.0,Linker Verteidiger,25000000.0,2026,rasenballsport-leipzig
+39,Max Finkgräfe,35,2004-03-27,22,Deutschland,183.0,links,2030-06-30,1.FC Köln,4000000.0,Linker Verteidiger,5000000.0,2026,rasenballsport-leipzig
+40,Lutsharel Geertruida,,2000-07-18,26,Niederlande,184.0,rechts,2029-06-30,Feyenoord Rotterdam,20000000.0,Rechter Verteidiger,20000000.0,2026,rasenballsport-leipzig
+41,Ridle Baku,17,1998-04-08,28,Deutschland,176.0,rechts,2027-06-30,VfL Wolfsburg,4500000.0,Rechter Verteidiger,12000000.0,2026,rasenballsport-leipzig
+42,Benjamin Henrichs,39,1997-02-23,29,Deutschland,185.0,rechts,2028-06-30,AS Monaco,15000000.0,Rechter Verteidiger,7000000.0,2026,rasenballsport-leipzig
+43,Nicolas Seiwald,13,2001-05-04,25,Österreich,179.0,rechts,2028-06-30,FC Red Bull Salzburg,20000000.0,Defensives Mittelfeld,25000000.0,2026,rasenballsport-leipzig
+44,Arthur Vermeeren,48,2005-02-07,21,Belgien,180.0,rechts,2029-06-30,Atlético Madrid,20000000.0,Defensives Mittelfeld,20000000.0,2026,rasenballsport-leipzig
+45,Benno Kaltefleiter,37,2008-02-14,18,Deutschland,189.0,rechts,2029-06-30,RB Leipzig U19,,Defensives Mittelfeld,,2026,rasenballsport-leipzig
+46,Assan Ouédraogo,8,2006-05-09,20,Deutschland,191.0,rechts,2029-06-30,FC Schalke 04,10000000.0,Zentrales Mittelfeld,28000000.0,2026,rasenballsport-leipzig
+47,Rocco Reitz,20,2002-05-29,24,Deutschland,176.0,rechts,2031-06-30,Borussia Mönchengladbach,20000000.0,Zentrales Mittelfeld,20000000.0,2026,rasenballsport-leipzig
+48,Ezechiel Banzuzi,6,2005-02-16,21,Niederlande,191.0,rechts,2030-06-30,Oud-Heverlee Leuven,16000000.0,Zentrales Mittelfeld,16000000.0,2026,rasenballsport-leipzig
+49,Joyeux Masanka Bungi,,2007-01-24,19,Belgien,186.0,links,2027-06-30,RB Leipzig U19,,Linkes Mittelfeld,400000.0,2026,rasenballsport-leipzig
+50,Christoph Baumgartner,14,1999-08-01,27,Österreich,180.0,rechts,2028-06-30,TSG 1899 Hoffenheim,25500000.0,Offensives Mittelfeld,40000000.0,2026,rasenballsport-leipzig
+51,Brajan Gruda,10,2004-05-31,22,Deutschland,178.0,links,2027-06-30,Brighton & Hove Albion,1000000.0,Offensives Mittelfeld,28000000.0,2026,rasenballsport-leipzig
+52,Eljif Elmas,19,1999-09-24,26,Nordmazedonien,184.0,rechts,2028-06-30,SSC Neapel,24000000.0,Offensives Mittelfeld,13000000.0,2026,rasenballsport-leipzig
+53,Andrija Maksimovic,33,2007-06-05,19,Serbien,182.0,links,2030-06-30,Roter Stern Belgrad,14100000.0,Offensives Mittelfeld,9000000.0,2026,rasenballsport-leipzig
+54,Viggo Gebel,47,2007-11-22,18,Deutschland,175.0,rechts,2028-06-30,RB Leipzig U19,,Offensives Mittelfeld,350000.0,2026,rasenballsport-leipzig
+55,Antonio Nusa,7,2005-04-17,21,Norwegen,183.0,rechts,2029-06-30,Club Brügge,21000000.0,Linksaußen,32000000.0,2026,rasenballsport-leipzig
+56,Suleman Sani,18,2006-09-01,19,Nigeria,175.0,rechts,2031-06-30,AS Trencin,5000000.0,Linksaußen,5000000.0,2026,rasenballsport-leipzig
+57,Tidiam Gomis,27,2006-08-08,19,Frankreich,183.0,rechts,2029-06-30,SM Caen,1000000.0,Linksaußen,5000000.0,2026,rasenballsport-leipzig
+58,Ayodele Thomas,21,2007-07-23,19,Niederlande,177.0,rechts,2031-06-30,PSV Eindhoven II,400000.0,Linksaußen,1000000.0,2026,rasenballsport-leipzig
+59,Yan Diomande,49,2006-11-14,19,Elfenbeinküste,180.0,rechts,2030-06-30,CD Leganés,20000000.0,Rechtsaußen,90000000.0,2026,rasenballsport-leipzig
+60,Johan Bakayoko,11,2003-04-20,23,Belgien,179.0,links,2030-06-30,PSV Eindhoven,18000000.0,Rechtsaußen,20000000.0,2026,rasenballsport-leipzig
+61,Rômulo,40,2002-02-08,24,Brasilien,193.0,rechts,2030-06-30,Göztepe,20500000.0,Mittelstürmer,30000000.0,2026,rasenballsport-leipzig
+62,Conrad Harder,9,2005-04-07,21,Dänemark,185.0,links,2030-06-30,Sporting Lissabon,24000000.0,Mittelstürmer,17000000.0,2026,rasenballsport-leipzig
+63,Robert Ramsak,,2006-10-28,19,Deutschland,185.0,rechts,2027-06-30,RB Leipzig U19,,Mittelstürmer,250000.0,2026,rasenballsport-leipzig
+64,Gregor Kobel,1,1997-12-06,28,Schweiz,196.0,rechts,2028-06-30,VfB Stuttgart,15000000.0,Torwart,40000000.0,2026,borussia-dortmund
+65,Diant Ramaj,32,2001-09-19,24,Deutschland,189.0,rechts,2029-06-30,Ajax Amsterdam,5000000.0,Torwart,7000000.0,2026,borussia-dortmund
+66,Alexander Meyer,33,1991-04-13,35,Deutschland,195.0,rechts,2027-06-30,SSV Jahn Regensburg,,Torwart,500000.0,2026,borussia-dortmund
+67,Patrick Drewes,30,1993-02-04,33,Deutschland,194.0,rechts,2027-06-30,VfL Bochum,200000.0,Torwart,300000.0,2026,borussia-dortmund
+68,Silas Ostrzinski,31,2003-11-19,22,Deutschland,198.0,rechts,2027-06-30,Borussia Dortmund II,,Torwart,200000.0,2026,borussia-dortmund
+69,Nico Schlotterbeck,4,1999-12-01,26,Deutschland,191.0,links,2031-06-30,SC Freiburg,20000000.0,Innenverteidiger,55000000.0,2026,borussia-dortmund
+70,Joane Gadou,22,2007-01-17,19,Frankreich,195.0,rechts,2031-06-30,FC Red Bull Salzburg,19500000.0,Innenverteidiger,20000000.0,2026,borussia-dortmund
+71,Waldemar Anton,3,1996-07-20,30,Deutschland,189.0,rechts,2028-06-30,VfB Stuttgart,22500000.0,Innenverteidiger,18000000.0,2026,borussia-dortmund
+72,Luca Reggiani,49,2008-01-09,18,Italien,194.0,rechts,,Borussia Dortmund U19,,Innenverteidiger,10000000.0,2026,borussia-dortmund
+73,Ramy Bensebaini,5,1995-04-16,31,Algerien,187.0,links,2027-06-30,Borussia Mönchengladbach,,Innenverteidiger,7000000.0,2026,borussia-dortmund
+74,Emre Can,23,1994-01-12,32,Deutschland,186.0,rechts,2027-06-30,Juventus Turin,25000000.0,Innenverteidiger,3000000.0,2026,borussia-dortmund
+75,Filippo Mane,39,2005-03-08,21,Italien,188.0,rechts,2028-06-30,Borussia Dortmund II,,Innenverteidiger,2500000.0,2026,borussia-dortmund
+76,Daniel Svensson,24,2002-02-12,24,Schweden,183.0,links,2029-06-30,FC Nordsjaelland,6500000.0,Linker Verteidiger,22000000.0,2026,borussia-dortmund
+77,Almugera Kabar,42,2006-06-06,20,Deutschland,186.0,links,2028-06-30,Borussia Dortmund U19,,Linker Verteidiger,3000000.0,2026,borussia-dortmund
+78,Julian Ryerson,26,1997-11-17,28,Norwegen,183.0,rechts,2028-06-30,1.FC Union Berlin,5000000.0,Rechter Verteidiger,25000000.0,2026,borussia-dortmund
+79,Yan Couto,2,2002-06-03,24,Brasilien,168.0,rechts,2030-06-30,Manchester City,20000000.0,Rechter Verteidiger,17000000.0,2026,borussia-dortmund
+80,Mussa Kaba,48,2008-11-17,17,Deutschland,196.0,rechts,2031-06-30,Borussia Dortmund II,,Defensives Mittelfeld,200000.0,2026,borussia-dortmund
+81,Felix Nmecha,8,2000-10-10,25,Deutschland,190.0,rechts,2030-06-30,VfL Wolfsburg,30000000.0,Zentrales Mittelfeld,55000000.0,2026,borussia-dortmund
+82,Jobe Bellingham,7,2005-09-23,20,England,191.0,rechts,2030-06-30,AFC Sunderland,30500000.0,Zentrales Mittelfeld,40000000.0,2026,borussia-dortmund
+83,Carney Chukwuemeka,17,2003-10-20,22,Österreich,187.0,rechts,2030-06-30,FC Chelsea,20000000.0,Zentrales Mittelfeld,20000000.0,2026,borussia-dortmund
+84,Marcel Sabitzer,20,1994-03-17,32,Österreich,178.0,rechts,2027-06-30,FC Bayern München,19000000.0,Zentrales Mittelfeld,6000000.0,2026,borussia-dortmund
+85,Konstantinos Karetsas,19,2007-11-19,18,Griechenland,173.0,links,2031-06-30,KRC Genk,30000000.0,Offensives Mittelfeld,35000000.0,2026,borussia-dortmund
+86,Justin Lerma,28,2008-05-05,18,Ecuador,176.0,rechts,2031-06-30,Independiente del Valle,4000000.0,Offensives Mittelfeld,3200000.0,2026,borussia-dortmund
+87,Mathis Albert,41,2009-05-21,17,Vereinigte Staaten,179.0,rechts,2027-06-30,Borussia Dortmund II,,Linksaußen,300000.0,2026,borussia-dortmund
+88,Samuele Inácio,40,2008-04-02,18,Italien,176.0,rechts,2029-06-30,Borussia Dortmund II,,Hängende Spitze,15000000.0,2026,borussia-dortmund
+89,Maximilian Beier,14,2002-10-17,23,Deutschland,185.0,rechts,2029-06-30,TSG 1899 Hoffenheim,28500000.0,Mittelstürmer,40000000.0,2026,borussia-dortmund
+90,Serhou Guirassy,9,1996-03-12,30,Guinea,187.0,rechts,2028-06-30,VfB Stuttgart,18000000.0,Mittelstürmer,32000000.0,2026,borussia-dortmund
+91,Fábio Silva,21,2002-07-19,24,Portugal,185.0,rechts,2030-06-30,Wolverhampton Wanderers,22500000.0,Mittelstürmer,22000000.0,2026,borussia-dortmund
+92,Mark Flekken,1,1993-06-13,33,Niederlande,195.0,beidfüßig,2028-06-30,FC Brentford,11000000.0,Torwart,6000000.0,2026,bayer-04-leverkusen
+93,Janis Blaswich,28,1991-05-02,35,Deutschland,193.0,rechts,2027-06-30,RB Leipzig,2000000.0,Torwart,700000.0,2026,bayer-04-leverkusen
+94,Niklas Lomb,36,1993-07-28,33,Deutschland,186.0,rechts,2027-06-30,Bayer 04 Leverkusen U19,,Torwart,250000.0,2026,bayer-04-leverkusen
+95,Jarell Quansah,4,2003-01-29,23,England,190.0,rechts,2030-06-30,FC Liverpool,35000000.0,Innenverteidiger,45000000.0,2026,bayer-04-leverkusen
+96,Edmond Tapsoba,12,1999-02-02,27,Burkina Faso,194.0,rechts,2031-06-30,Vitória Guimarães SC,20200000.0,Innenverteidiger,35000000.0,2026,bayer-04-leverkusen
+97,Loïc Badé,5,2000-04-11,26,Frankreich,191.0,rechts,2030-06-30,FC Sevilla,25000000.0,Innenverteidiger,20000000.0,2026,bayer-04-leverkusen
+98,Jeanuël Belocian,44,2005-02-17,21,Frankreich,186.0,links,2029-06-30,FC Stade Rennes,15000000.0,Innenverteidiger,12000000.0,2026,bayer-04-leverkusen
+99,Axel Tape,16,2007-08-10,18,Frankreich,180.0,rechts,2030-06-30,Paris Saint-Germain Espoirs,,Innenverteidiger,8000000.0,2026,bayer-04-leverkusen
+100,Tim Oermann,15,2003-10-06,22,Deutschland,189.0,rechts,2029-06-30,VfL Bochum,1900000.0,Innenverteidiger,4000000.0,2026,bayer-04-leverkusen
+101,Arthur,13,2003-03-17,23,Brasilien,174.0,rechts,2031-06-30,América FC (MG),7000000.0,Rechter Verteidiger,8000000.0,2026,bayer-04-leverkusen
+102,Lucas Vázquez,21,1991-07-01,35,Spanien,173.0,rechts,2027-06-30,Real Madrid,,Rechter Verteidiger,1500000.0,2026,bayer-04-leverkusen
+103,Equi Fernández,6,2002-07-25,24,Argentinien,178.0,links,2030-06-30,Al-Qadsiah FC,25000000.0,Defensives Mittelfeld,20000000.0,2026,bayer-04-leverkusen
+104,Kennet Eichhorn,18,2009-07-27,17,Deutschland,186.0,rechts,2031-06-30,Hertha BSC,9000000.0,Defensives Mittelfeld,20000000.0,2026,bayer-04-leverkusen
+105,Robert Andrich,8,1994-09-22,31,Deutschland,187.0,rechts,2028-06-30,1.FC Union Berlin,6500000.0,Defensives Mittelfeld,6000000.0,2026,bayer-04-leverkusen
+106,Exequiel Palacios,25,1998-10-05,27,Argentinien,177.0,rechts,2030-06-30,CA River Plate,17000000.0,Zentrales Mittelfeld,25000000.0,2026,bayer-04-leverkusen
+107,Aleix García,24,1997-06-28,29,Spanien,173.0,rechts,2029-06-30,FC Girona,18000000.0,Zentrales Mittelfeld,20000000.0,2026,bayer-04-leverkusen
+108,Noah Mbamba,31,2005-01-05,21,Belgien,196.0,rechts,2028-06-30,Club Brügge,100000.0,Zentrales Mittelfeld,2000000.0,2026,bayer-04-leverkusen
+109,Naba Mensah,,2007-05-08,19,Deutschland,,beidfüßig,2027-06-30,Bayer 04 Leverkusen U19,,Zentrales Mittelfeld,,2026,bayer-04-leverkusen
+110,Ibrahim Maza,30,2005-11-24,20,Algerien,180.0,rechts,2030-06-30,Hertha BSC,12000000.0,Offensives Mittelfeld,45000000.0,2026,bayer-04-leverkusen
+111,Malik Tillman,10,2002-05-28,24,Vereinigte Staaten,187.0,rechts,2030-06-30,PSV Eindhoven,35000000.0,Offensives Mittelfeld,30000000.0,2026,bayer-04-leverkusen
+112,Jonas Hofmann,7,1992-07-14,34,Deutschland,176.0,rechts,2027-06-30,Borussia Mönchengladbach,10000000.0,Offensives Mittelfeld,1500000.0,2026,bayer-04-leverkusen
+113,Afonso Moreira,9,2005-03-19,21,Portugal,176.0,rechts,2031-06-30,Olympique Lyon,29500000.0,Linksaußen,20000000.0,2026,bayer-04-leverkusen
+114,Eliesse Ben Seghir,17,2005-02-16,21,Marokko,178.0,rechts,2030-06-30,AS Monaco,32000000.0,Linksaußen,20000000.0,2026,bayer-04-leverkusen
+115,Martin Terrier,11,1997-03-04,29,Frankreich,184.0,rechts,2029-06-30,FC Stade Rennes,20000000.0,Linksaußen,8000000.0,2026,bayer-04-leverkusen
+116,Ernest Poku,19,2004-01-28,22,Niederlande,176.0,rechts,2030-06-30,AZ Alkmaar,10000000.0,Rechtsaußen,25000000.0,2026,bayer-04-leverkusen
+117,Nathan Tella,23,1999-07-05,27,Nigeria,173.0,rechts,2031-06-30,FC Southampton,23300000.0,Rechtsaußen,15000000.0,2026,bayer-04-leverkusen
+118,Montrell Culbreath,42,2007-08-29,18,Deutschland,172.0,rechts,2031-06-30,Bayer 04 Leverkusen U19,,Rechtsaußen,15000000.0,2026,bayer-04-leverkusen
+119,Farid Alfa-Ruprecht,29,2006-03-28,20,Deutschland,181.0,rechts,2030-06-30,Manchester City U21,1300000.0,Rechtsaußen,3000000.0,2026,bayer-04-leverkusen
+120,Christian Kofane,35,2006-07-26,20,Kamerun,189.0,rechts,2029-06-30,Albacete Balompié,5250000.0,Mittelstürmer,40000000.0,2026,bayer-04-leverkusen
+121,Patrik Schick,14,1996-01-24,30,Tschechien,191.0,links,2030-06-30,AS Rom,26500000.0,Mittelstürmer,18000000.0,2026,bayer-04-leverkusen
+122,Victor Boniface,22,2000-12-23,25,Nigeria,190.0,rechts,2028-06-30,Union Saint-Gilloise,22600000.0,Mittelstürmer,5000000.0,2026,bayer-04-leverkusen
+123,Ndjicoura Bomba,,2008-03-12,18,Mali,187.0,,2030-06-30,Club Sportif de Bamako,1500000.0,Mittelstürmer,,2026,bayer-04-leverkusen
+124,Dennis Seimen,41,2005-12-01,20,Deutschland,192.0,links,2029-06-30,VfB Stuttgart U19,,Torwart,10000000.0,2026,vfb-stuttgart
+125,Fabian Bredlow,1,1995-03-02,31,Deutschland,190.0,beidfüßig,2027-06-30,1.FC Nürnberg,300000.0,Torwart,700000.0,2026,vfb-stuttgart
+126,Marius Funk,33,1996-01-01,30,Deutschland,187.0,rechts,2028-06-30,FC Energie Cottbus,,Torwart,300000.0,2026,vfb-stuttgart
+127,Stefan Drljaca,46,1999-04-20,27,Deutschland,192.0,rechts,2027-06-30,SG Dynamo Dresden,,Torwart,300000.0,2026,vfb-stuttgart
+128,Finn Jeltsch,29,2006-07-17,20,Deutschland,188.0,rechts,2030-06-30,1.FC Nürnberg,9500000.0,Innenverteidiger,35000000.0,2026,vfb-stuttgart
+129,Ramon Hendriks,3,2001-07-18,25,Niederlande,189.0,links,2028-06-30,Feyenoord Rotterdam,1000000.0,Innenverteidiger,25000000.0,2026,vfb-stuttgart
+130,Jeff Chabot,24,1998-02-12,28,Deutschland,195.0,links,2028-06-30,1.FC Köln,4000000.0,Innenverteidiger,15000000.0,2026,vfb-stuttgart
+131,Luca Jaquez,14,2003-06-02,23,Schweiz,187.0,rechts,2029-06-30,FC Luzern,6500000.0,Innenverteidiger,10000000.0,2026,vfb-stuttgart
+132,Ameen Al-Dakhil,2,2002-03-06,24,Belgien,187.0,rechts,2028-06-30,FC Burnley,9000000.0,Innenverteidiger,3000000.0,2026,vfb-stuttgart
+133,Dan-Axel Zagadou,23,1999-06-03,27,Frankreich,196.0,links,2027-06-30,Vereinslos,,Innenverteidiger,2000000.0,2026,vfb-stuttgart
+134,Maximilian Mittelstädt,7,1997-03-18,29,Deutschland,180.0,links,2028-06-30,Hertha BSC,500000.0,Linker Verteidiger,18000000.0,2026,vfb-stuttgart
+135,Josha Vagnoman,4,2000-12-11,25,Deutschland,190.0,rechts,2028-06-30,Hamburger SV,4500000.0,Rechter Verteidiger,10000000.0,2026,vfb-stuttgart
+136,Lorenz Assignon,22,2000-06-22,26,Frankreich,181.0,rechts,2029-06-30,FC Stade Rennes,12000000.0,Rechter Verteidiger,9000000.0,2026,vfb-stuttgart
+137,Leonidas Stergiou,20,2002-03-03,24,Schweiz,181.0,rechts,2028-06-30,FC St. Gallen 1879,2000000.0,Rechter Verteidiger,2500000.0,2026,vfb-stuttgart
+138,Christopher Olivier,31,2006-01-31,20,Österreich,187.0,rechts,2028-06-30,,,Rechter Verteidiger,1200000.0,2026,vfb-stuttgart
+139,Angelo Stiller,6,2001-04-04,25,Deutschland,183.0,links,2028-06-30,TSG 1899 Hoffenheim,5500000.0,Defensives Mittelfeld,45000000.0,2026,vfb-stuttgart
+140,Chema Andrés,30,2005-04-25,21,Spanien,190.0,rechts,2030-06-30,Real Madrid Castilla,3000000.0,Defensives Mittelfeld,20000000.0,2026,vfb-stuttgart
+141,Atakan Karazor,16,1996-10-13,29,Türkei,191.0,rechts,2028-06-30,Holstein Kiel,800000.0,Defensives Mittelfeld,8000000.0,2026,vfb-stuttgart
+142,Mirza Catovic,35,2007-05-01,19,Deutschland,190.0,links,2028-06-30,VfB Stuttgart II,,Defensives Mittelfeld,4000000.0,2026,vfb-stuttgart
+143,Nikolas Nartey,28,2000-02-22,26,Dänemark,186.0,links,2028-06-30,1.FC Köln,,Zentrales Mittelfeld,10000000.0,2026,vfb-stuttgart
+144,Grischa Prömel,21,1995-01-09,31,Deutschland,184.0,rechts,2029-06-30,TSG 1899 Hoffenheim,,Zentrales Mittelfeld,3500000.0,2026,vfb-stuttgart
+145,Yanik Spalt,47,2007-09-03,18,Österreich,184.0,links,2028-06-30,,,Zentrales Mittelfeld,750000.0,2026,vfb-stuttgart
+146,Ertugrul Yigit,39,2009-01-08,17,Deutschland,,rechts,2029-06-30,VfB Stuttgart U19,,Zentrales Mittelfeld,,2026,vfb-stuttgart
+147,Bilal El Khannouss,11,2004-05-10,22,Marokko,180.0,rechts,2030-06-30,Leicester City,15000000.0,Offensives Mittelfeld,35000000.0,2026,vfb-stuttgart
+148,Laurin Ulrich,38,2005-01-31,21,Deutschland,180.0,rechts,2027-06-30,VfB Stuttgart II,,Offensives Mittelfeld,3500000.0,2026,vfb-stuttgart
+149,Chris Führich,10,1998-01-09,28,Deutschland,181.0,rechts,2028-06-30,SC Paderborn 07,2500000.0,Linksaußen,12000000.0,2026,vfb-stuttgart
+150,Leo Sauer,44,2005-12-16,20,Slowakei,184.0,rechts,2031-06-30,Feyenoord Rotterdam,15000000.0,Linksaußen,7000000.0,2026,vfb-stuttgart
+151,Jarzinho Malanga,43,2006-07-10,20,Deutschland,179.0,rechts,2028-06-30,VfB Stuttgart II,,Linksaußen,1700000.0,2026,vfb-stuttgart
+152,Justin Diehl,17,2004-11-27,21,Deutschland,174.0,rechts,2029-06-30,1.FC Köln,,Linksaußen,1200000.0,2026,vfb-stuttgart
+153,Jamie Leweling,18,2001-02-26,25,Deutschland,185.0,beidfüßig,2029-06-30,1.FC Union Berlin,6000000.0,Rechtsaußen,40000000.0,2026,vfb-stuttgart
+154,Tiago Tomás,8,2002-06-16,24,Portugal,180.0,rechts,2029-06-30,VfL Wolfsburg,13000000.0,Rechtsaußen,15000000.0,2026,vfb-stuttgart
+155,Badredine Bouanani,27,2004-12-08,21,Algerien,177.0,links,2030-06-30,OGC Nizza,15000000.0,Rechtsaußen,10000000.0,2026,vfb-stuttgart
+156,Lazar Jovanovic,45,2006-11-30,19,Serbien,184.0,links,2029-06-30,Roter Stern Belgrad,5000000.0,Rechtsaußen,3500000.0,2026,vfb-stuttgart
+157,Ermedin Demirovic,9,1998-03-25,28,Bosnien-Herzegowina,185.0,rechts,2028-06-30,FC Augsburg,23000000.0,Mittelstürmer,22000000.0,2026,vfb-stuttgart
+158,Deniz Undav,26,1996-07-19,30,Deutschland,179.0,beidfüßig,2029-06-30,Brighton & Hove Albion,26700000.0,Mittelstürmer,22000000.0,2026,vfb-stuttgart
+159,Jovan Milosevic,19,2005-07-31,21,Serbien,190.0,rechts,2029-06-30,FK Vojvodina Novi Sad,1200000.0,Mittelstürmer,7000000.0,2026,vfb-stuttgart
+160,Jeremy Arévalo,25,2005-03-19,21,Ecuador,182.0,links,2031-06-30,Racing Santander,7500000.0,Mittelstürmer,7000000.0,2026,vfb-stuttgart
+161,Kauã Santos,40,2003-04-11,23,Brasilien,196.0,rechts,2030-06-30,CR Flamengo U20,1600000.0,Torwart,7000000.0,2026,eintracht-frankfurt
+162,Michael Zetterer,23,1995-07-12,31,Deutschland,187.0,beidfüßig,2029-06-30,SV Werder Bremen,6000000.0,Torwart,4000000.0,2026,eintracht-frankfurt
+163,Jens Grahl,33,1988-09-22,37,Deutschland,192.0,rechts,2027-06-30,VfB Stuttgart,250000.0,Torwart,200000.0,2026,eintracht-frankfurt
+164,Amil Siljevic,39,2007-01-19,19,Bosnien-Herzegowina,192.0,rechts,2029-06-30,Eintracht Frankfurt U19,,Torwart,,2026,eintracht-frankfurt
+165,Nnamdi Collins,34,2004-01-10,22,Deutschland,188.0,rechts,2030-06-30,Borussia Dortmund II,1000000.0,Innenverteidiger,20000000.0,2026,eintracht-frankfurt
+166,Arthur Theate,3,2000-05-25,26,Belgien,185.0,links,2029-06-30,FC Stade Rennes,13000000.0,Innenverteidiger,17000000.0,2026,eintracht-frankfurt
+167,Robin Koch,4,1996-07-17,30,Deutschland,192.0,rechts,2030-06-30,Leeds United,,Innenverteidiger,10000000.0,2026,eintracht-frankfurt
+168,Otávio,5,2005-11-25,20,Brasilien,193.0,links,2031-06-30,CF Estrela Amadora,4500000.0,Innenverteidiger,1500000.0,2026,eintracht-frankfurt
+169,Keita Kosugi,26,2006-03-18,20,Japan,172.0,links,2031-06-30,Djurgårdens IF,6500000.0,Linker Verteidiger,5000000.0,2026,eintracht-frankfurt
+170,Niels Nkounkou,48,2000-11-01,25,Frankreich,180.0,links,2028-06-30,AS Saint-Étienne,7500000.0,Linker Verteidiger,2600000.0,2026,eintracht-frankfurt
+171,Elias Baum,2,2005-10-26,20,Deutschland,180.0,rechts,2028-06-30,Eintracht Frankfurt II,,Rechter Verteidiger,4000000.0,2026,eintracht-frankfurt
+172,Timothy Chandler,22,1990-03-29,36,Vereinigte Staaten,187.0,rechts,2027-06-30,1.FC Nürnberg,1000000.0,Rechter Verteidiger,350000.0,2026,eintracht-frankfurt
+173,Raphael Onyedika,25,2001-04-19,25,Nigeria,184.0,rechts,2031-06-30,Club Brügge,9000000.0,Defensives Mittelfeld,23000000.0,2026,eintracht-frankfurt
+174,Noël Aséko,,2005-11-22,20,Deutschland,178.0,rechts,2031-06-30,FC Bayern München,12000000.0,Defensives Mittelfeld,12000000.0,2026,eintracht-frankfurt
+175,Ellyes Skhiri,15,1995-05-10,31,Tunesien,185.0,rechts,2027-06-30,1.FC Köln,,Defensives Mittelfeld,5000000.0,2026,eintracht-frankfurt
+176,Hugo Larsson,16,2004-06-27,22,Schweden,187.0,rechts,2029-06-30,Malmö FF,9000000.0,Zentrales Mittelfeld,28000000.0,2026,eintracht-frankfurt
+177,Oscar Højlund,6,2005-01-04,21,Dänemark,184.0,rechts,2029-06-30,FC Kopenhagen,1350000.0,Zentrales Mittelfeld,15000000.0,2026,eintracht-frankfurt
+178,Junior Dina Ebimbe,43,2000-11-21,25,Kamerun,184.0,rechts,2027-06-30,Paris Saint-Germain,6500000.0,Rechtes Mittelfeld,6000000.0,2026,eintracht-frankfurt
+179,Can Uzun,42,2005-11-11,20,Türkei,186.0,rechts,2029-06-30,1.FC Nürnberg,13000000.0,Offensives Mittelfeld,45000000.0,2026,eintracht-frankfurt
+180,Farès Chaïbi,8,2002-11-28,23,Algerien,183.0,rechts,2028-06-30,FC Toulouse,10000000.0,Offensives Mittelfeld,15000000.0,2026,eintracht-frankfurt
+181,Love Arrhov,31,2008-05-17,18,Schweden,178.0,rechts,2028-06-30,IF Brommapojkarna,4600000.0,Offensives Mittelfeld,5000000.0,2026,eintracht-frankfurt
+182,Mario Götze,27,1992-06-03,34,Deutschland,176.0,rechts,2028-06-30,PSV Eindhoven,3000000.0,Offensives Mittelfeld,3000000.0,2026,eintracht-frankfurt
+183,Jean-Mattéo Bahoya,19,2005-05-07,21,Frankreich,180.0,rechts,2029-06-30,Angers SCO,8000000.0,Linksaußen,25000000.0,2026,eintracht-frankfurt
+184,Malik Pimpong,35,2008-01-01,18,Dänemark,190.0,rechts,2031-06-30,FC Midtjylland U19,3500000.0,Linksaußen,,2026,eintracht-frankfurt
+185,Ritsu Doan,20,1998-06-16,28,Japan,172.0,links,2030-06-30,SC Freiburg,21000000.0,Rechtsaußen,17000000.0,2026,eintracht-frankfurt
+186,Ansgar Knauff,7,2002-01-10,24,Deutschland,180.0,rechts,2028-06-30,Borussia Dortmund,5000000.0,Rechtsaußen,15000000.0,2026,eintracht-frankfurt
+187,Ayoube Amaimouni-Echghouyab,29,2004-11-30,21,Marokko,179.0,links,2031-06-30,TSG 1899 Hoffenheim II,200000.0,Rechtsaußen,10000000.0,2026,eintracht-frankfurt
+188,Jonathan Burkardt,9,2000-07-11,26,Deutschland,181.0,rechts,2030-06-30,1.FSV Mainz 05,21000000.0,Mittelstürmer,30000000.0,2026,eintracht-frankfurt
+189,Elye Wahi,,2003-01-02,23,Elfenbeinküste,181.0,rechts,2030-06-30,Olympique Marseille,26000000.0,Mittelstürmer,18000000.0,2026,eintracht-frankfurt
+190,Younes Ebnoutalib,11,2003-09-13,22,Deutschland,191.0,rechts,2031-06-30,SV 07 Elversberg,8000000.0,Mittelstürmer,8000000.0,2026,eintracht-frankfurt
+191,Noel Futkeu,,2002-12-06,23,Deutschland,183.0,rechts,,SpVgg Greuther Fürth,1300000.0,Mittelstürmer,7500000.0,2026,eintracht-frankfurt
+192,Michy Batshuayi,30,1993-10-02,32,Belgien,185.0,rechts,2027-06-30,Galatasaray,3000000.0,Mittelstürmer,2000000.0,2026,eintracht-frankfurt
+193,Jessic Ngankam,,2000-07-20,26,Deutschland,184.0,rechts,2028-06-30,Hertha BSC,4000000.0,Mittelstürmer,700000.0,2026,eintracht-frankfurt
+194,Oliver Baumann,1,1990-06-02,36,Deutschland,187.0,rechts,2028-06-30,SC Freiburg,5500000.0,Torwart,2500000.0,2026,tsg-1899-hoffenheim
+195,Luca Philipp,37,2000-11-28,25,Deutschland,192.0,rechts,,TSG 1899 Hoffenheim II,,Torwart,750000.0,2026,tsg-1899-hoffenheim
+196,Lúkas Petersson,36,2004-02-09,22,Island,195.0,rechts,,TSG 1899 Hoffenheim II,,Torwart,600000.0,2026,tsg-1899-hoffenheim
+197,Albian Hajdari,21,2003-05-18,23,Kosovo,189.0,links,2031-06-30,FC Lugano,5000000.0,Innenverteidiger,25000000.0,2026,tsg-1899-hoffenheim
+198,Ozan Kabak,5,2000-03-25,26,Türkei,187.0,rechts,2030-06-30,FC Schalke 04,7000000.0,Innenverteidiger,15000000.0,2026,tsg-1899-hoffenheim
+199,Robin Hranac,2,2000-01-29,26,Tschechien,189.0,rechts,2028-06-30,FC Viktoria Pilsen,8000000.0,Innenverteidiger,10000000.0,2026,tsg-1899-hoffenheim
+200,Koki Machida,28,1997-08-25,28,Japan,190.0,links,2029-06-30,Union Saint-Gilloise,4750000.0,Innenverteidiger,6000000.0,2026,tsg-1899-hoffenheim
+201,Arthur Chaves,35,2001-01-29,25,Brasilien,188.0,rechts,2029-06-30,Académico Viseu FC,6000000.0,Innenverteidiger,5000000.0,2026,tsg-1899-hoffenheim
+202,Sean Dulic,4,2005-06-05,21,Deutschland,187.0,beidfüßig,2030-06-30,TSV 1860 München,,Innenverteidiger,1200000.0,2026,tsg-1899-hoffenheim
+203,Mats Rots,39,2006-03-11,20,Niederlande,190.0,links,2031-06-30,FC Twente Enschede,12000000.0,Linker Verteidiger,12000000.0,2026,tsg-1899-hoffenheim
+204,Bernardo,13,1995-05-14,31,Brasilien,186.0,links,2027-06-30,VfL Bochum,,Linker Verteidiger,4000000.0,2026,tsg-1899-hoffenheim
+205,Valentin Gendrey,15,2000-06-21,26,Frankreich,179.0,rechts,2028-06-30,US Lecce,9500000.0,Rechter Verteidiger,6000000.0,2026,tsg-1899-hoffenheim
+206,Vladimír Coufal,34,1992-08-22,33,Tschechien,175.0,rechts,2028-06-30,West Ham United,,Rechter Verteidiger,2500000.0,2026,tsg-1899-hoffenheim
+207,Natnael Abraha,29,2008-03-14,18,Deutschland,183.0,rechts,,TSG 1899 Hoffenheim II,,Rechter Verteidiger,400000.0,2026,tsg-1899-hoffenheim
+208,Leon Avdullahu,7,2004-02-23,22,Kosovo,185.0,rechts,2031-06-30,FC Basel 1893,8000000.0,Defensives Mittelfeld,30000000.0,2026,tsg-1899-hoffenheim
+209,Wouter Burger,18,2001-02-16,25,Niederlande,191.0,links,,Stoke City,4000000.0,Defensives Mittelfeld,20000000.0,2026,tsg-1899-hoffenheim
+210,Cajetan Lenz,32,2006-06-16,20,Deutschland,190.0,,2031-06-30,VfL Bochum,10000000.0,Defensives Mittelfeld,10000000.0,2026,tsg-1899-hoffenheim
+211,Luis Engelns,16,2007-03-11,19,Deutschland,190.0,rechts,,SC Paderborn 07,3000000.0,Defensives Mittelfeld,4000000.0,2026,tsg-1899-hoffenheim
+212,Nathan De Cat,17,2008-07-19,18,Belgien,192.0,rechts,2031-06-30,RSC Anderlecht,18500000.0,Zentrales Mittelfeld,27000000.0,2026,tsg-1899-hoffenheim
+213,Umut Tohumcu,25,2004-08-11,21,Deutschland,175.0,rechts,2028-06-30,TSG 1899 Hoffenheim II,,Zentrales Mittelfeld,3500000.0,2026,tsg-1899-hoffenheim
+214,Dennis Geiger,,1998-06-10,28,Deutschland,173.0,rechts,2027-06-30,TSG 1899 Hoffenheim U19,,Zentrales Mittelfeld,1000000.0,2026,tsg-1899-hoffenheim
+215,Alexander Prass,22,2001-05-26,25,Österreich,180.0,links,2028-06-30,SK Sturm Graz,12000000.0,Linkes Mittelfeld,9000000.0,2026,tsg-1899-hoffenheim
+216,Bambasé Conté,20,2003-07-07,23,Deutschland,182.0,links,,TSG 1899 Hoffenheim II,,Offensives Mittelfeld,4000000.0,2026,tsg-1899-hoffenheim
+217,Deniz Zeitler,38,2006-12-13,19,Deutschland,181.0,beidfüßig,,FC Ingolstadt 04,1000000.0,Linksaußen,4000000.0,2026,tsg-1899-hoffenheim
+218,Patrick Wimmer,8,2001-05-30,25,Österreich,182.0,rechts,2031-06-30,VfL Wolfsburg,10000000.0,Rechtsaußen,12000000.0,2026,tsg-1899-hoffenheim
+219,Adam Daghim,14,2005-09-28,20,Dänemark,189.0,links,,FC Red Bull Salzburg,13000000.0,Rechtsaußen,7500000.0,2026,tsg-1899-hoffenheim
+220,Andrej Kramaric,27,1991-06-19,35,Kroatien,177.0,rechts,2028-06-30,Leicester City,11000000.0,Hängende Spitze,2500000.0,2026,tsg-1899-hoffenheim
+221,Fisnik Asllani,11,2002-08-08,23,Kosovo,191.0,beidfüßig,2029-06-30,TSG 1899 Hoffenheim II,,Mittelstürmer,35000000.0,2026,tsg-1899-hoffenheim
+222,Tim Lemperle,19,2002-02-05,24,Deutschland,187.0,rechts,2031-06-30,1.FC Köln,,Mittelstürmer,17000000.0,2026,tsg-1899-hoffenheim
+223,Adam Hlozek,10,2002-07-25,24,Tschechien,188.0,rechts,2029-06-30,Bayer 04 Leverkusen,18000000.0,Mittelstürmer,10000000.0,2026,tsg-1899-hoffenheim
+224,Alessandro Vogt,24,2005-02-03,21,Schweiz,188.0,rechts,2031-06-30,FC St. Gallen 1879,2700000.0,Mittelstürmer,8000000.0,2026,tsg-1899-hoffenheim
+225,Max Moerstedt,9,2006-01-15,20,Deutschland,194.0,rechts,2030-06-30,TSG 1899 Hoffenheim U19,,Mittelstürmer,7000000.0,2026,tsg-1899-hoffenheim
+226,Noah Atubolu,,2002-05-25,24,Deutschland,190.0,rechts,2027-06-30,SC Freiburg II,,Torwart,25000000.0,2026,sc-freiburg
+227,Mio Backhaus,1,2004-04-16,22,Deutschland,194.0,rechts,,SV Werder Bremen,12000000.0,Torwart,15000000.0,2026,sc-freiburg
+228,Florian Müller,21,1997-11-13,28,Deutschland,190.0,links,,VfB Stuttgart,1500000.0,Torwart,1200000.0,2026,sc-freiburg
+229,Jannik Huth,24,1994-04-15,32,Deutschland,185.0,rechts,,SC Paderborn 07,,Torwart,400000.0,2026,sc-freiburg
+230,Bruno Ogbus,43,2005-12-17,20,Schweiz,188.0,rechts,,SC Freiburg II,,Innenverteidiger,15000000.0,2026,sc-freiburg
+231,Philipp Lienhart,3,1996-07-11,30,Österreich,189.0,rechts,,Real Madrid,2000000.0,Innenverteidiger,10000000.0,2026,sc-freiburg
+232,Max Rosenfelder,37,2003-02-10,23,Deutschland,186.0,rechts,,SC Freiburg II,,Innenverteidiger,6000000.0,2026,sc-freiburg
+233,Matthias Ginter,28,1994-01-19,32,Deutschland,189.0,rechts,2027-06-30,Borussia Mönchengladbach,,Innenverteidiger,5000000.0,2026,sc-freiburg
+234,Anthony Jung,5,1991-11-03,34,Deutschland,186.0,links,2027-06-30,SV Werder Bremen,,Innenverteidiger,600000.0,2026,sc-freiburg
+235,Berkay Yılmaz,27,2005-02-25,21,Türkei,178.0,links,,SC Freiburg II,,Linker Verteidiger,7000000.0,2026,sc-freiburg
+236,Jordy Makengo,33,2001-08-03,25,Frankreich,191.0,links,2028-06-30,SC Freiburg II,,Linker Verteidiger,6000000.0,2026,sc-freiburg
+237,Christian Günter,30,1993-02-28,33,Deutschland,184.0,links,,SC Freiburg U19,,Linker Verteidiger,2000000.0,2026,sc-freiburg
+238,Philipp Treu,29,2000-12-03,25,Deutschland,173.0,rechts,,FC St. Pauli,5500000.0,Rechter Verteidiger,15000000.0,2026,sc-freiburg
+239,Lukas Kübler,17,1992-08-30,33,Deutschland,182.0,rechts,,SV Sandhausen,,Rechter Verteidiger,1500000.0,2026,sc-freiburg
+240,Karl Steinmann,36,2005-12-13,20,Deutschland,186.0,rechts,,SC Freiburg II,,Rechter Verteidiger,150000.0,2026,sc-freiburg
+241,Patrick Osterhage,6,2000-02-01,26,Deutschland,186.0,links,,VfL Bochum,4800000.0,Defensives Mittelfeld,12000000.0,2026,sc-freiburg
+242,Yannik Engelhardt,16,2001-02-07,25,Deutschland,184.0,rechts,,Como 1907,7000000.0,Defensives Mittelfeld,7000000.0,2026,sc-freiburg
+243,Rihito Yamamoto,20,2001-12-12,24,Japan,179.0,links,,VV St. Truiden,7000000.0,Defensives Mittelfeld,7000000.0,2026,sc-freiburg
+244,Maximilian Eggestein,8,1996-12-08,29,Deutschland,181.0,rechts,,SV Werder Bremen,5000000.0,Zentrales Mittelfeld,10000000.0,2026,sc-freiburg
+245,Rouven Tarnutzer,39,2007-07-24,19,Schweiz,184.0,rechts,2027-06-30,SC Freiburg II,,Zentrales Mittelfeld,400000.0,2026,sc-freiburg
+246,Derry Scherhant,7,2002-11-10,23,Deutschland,185.0,rechts,,Hertha BSC,2000000.0,Linksaußen,7500000.0,2026,sc-freiburg
+247,Vincenzo Grifo,32,1993-04-07,33,Italien,180.0,rechts,2027-06-30,TSG 1899 Hoffenheim,7000000.0,Linksaußen,4000000.0,2026,sc-freiburg
+248,Florent Muslija,23,1998-07-06,28,Kosovo,172.0,rechts,2028-06-30,SC Paderborn 07,1000000.0,Linksaußen,1800000.0,2026,sc-freiburg
+249,Niklas Beste,19,1999-01-04,27,Deutschland,175.0,links,2030-06-30,Benfica Lissabon,8000000.0,Rechtsaußen,10000000.0,2026,sc-freiburg
+250,Cyriaque Irié,22,2005-06-20,21,Burkina Faso,185.0,links,,ESTAC Troyes,8500000.0,Rechtsaußen,8000000.0,2026,sc-freiburg
+251,Eren Dinkçi,18,2001-12-13,24,Türkei,188.0,rechts,,SV Werder Bremen,5000000.0,Rechtsaußen,6000000.0,2026,sc-freiburg
+252,Yuito Suzuki,14,2001-10-25,24,Japan,175.0,rechts,,Bröndby IF,10000000.0,Hängende Spitze,24000000.0,2026,sc-freiburg
+253,Igor Matanovic,31,2003-03-31,23,Kroatien,194.0,rechts,,Eintracht Frankfurt,6700000.0,Mittelstürmer,22000000.0,2026,sc-freiburg
+254,Keisuke Goto,42,2005-06-03,21,Japan,191.0,rechts,,RSC Anderlecht,10000000.0,Mittelstürmer,10000000.0,2026,sc-freiburg
+255,Lucas Höler,9,1994-07-10,32,Deutschland,184.0,rechts,,SV Sandhausen,2000000.0,Mittelstürmer,3000000.0,2026,sc-freiburg
+256,Robin Zentner,27,1994-10-28,31,Deutschland,194.0,rechts,2028-06-30,1.FSV Mainz 05 II,,Torwart,2500000.0,2026,1-fsv-mainz-05
+257,Alexander Schwolow,1,1992-06-02,34,Deutschland,190.0,rechts,,Heart of Midlothian FC,,Torwart,450000.0,2026,1-fsv-mainz-05
+258,Maximilian Kinzig,40,2003-12-04,22,Deutschland,190.0,rechts,,1.FSV Mainz 05 II,,Torwart,150000.0,2026,1-fsv-mainz-05
+259,Kacper Potulski,48,2007-10-19,18,Polen,195.0,rechts,2028-06-30,1.FSV Mainz 05 II,,Innenverteidiger,18000000.0,2026,1-fsv-mainz-05
+260,Andreas Hanche-Olsen,25,1997-01-17,29,Norwegen,185.0,rechts,2028-06-30,KAA Gent,2500000.0,Innenverteidiger,3500000.0,2026,1-fsv-mainz-05
+261,Fabio Gruber,3,2002-09-03,23,Peru,188.0,rechts,2030-06-30,1.FC Nürnberg,3500000.0,Innenverteidiger,3000000.0,2026,1-fsv-mainz-05
+262,Dominik Kohr,31,1994-01-31,32,Deutschland,183.0,rechts,2028-06-30,Eintracht Frankfurt,1500000.0,Innenverteidiger,2000000.0,2026,1-fsv-mainz-05
+263,Danny da Costa,21,1993-07-13,33,Deutschland,187.0,rechts,2027-06-30,Eintracht Frankfurt,,Innenverteidiger,1200000.0,2026,1-fsv-mainz-05
+264,Stefan Bell,16,1991-08-24,34,Deutschland,192.0,rechts,2027-06-30,1.FSV Mainz 05 U19,,Innenverteidiger,600000.0,2026,1-fsv-mainz-05
+265,Phillipp Mwene,2,1994-01-29,32,Österreich,170.0,rechts,,PSV Eindhoven,1000000.0,Linker Verteidiger,1500000.0,2026,1-fsv-mainz-05
+266,Anthony Caci,19,1997-07-01,29,Frankreich,184.0,beidfüßig,2028-06-30,RC Straßburg Alsace,,Rechter Verteidiger,7000000.0,2026,1-fsv-mainz-05
+267,Silvan Widmer,30,1993-03-05,33,Schweiz,183.0,rechts,,FC Basel 1893,2500000.0,Rechter Verteidiger,800000.0,2026,1-fsv-mainz-05
+268,Kaishu Sano,6,2000-12-30,25,Japan,176.0,beidfüßig,2028-06-30,Kashima Antlers,2500000.0,Defensives Mittelfeld,50000000.0,2026,1-fsv-mainz-05
+269,Eric Martel,5,2002-04-29,24,Deutschland,188.0,rechts,,1.FC Köln,,Defensives Mittelfeld,8000000.0,2026,1-fsv-mainz-05
+270,Lennard Maloney,15,1999-10-08,26,Vereinigte Staaten,188.0,rechts,2028-06-30,1.FC Heidenheim 1846,500000.0,Defensives Mittelfeld,2500000.0,2026,1-fsv-mainz-05
+271,Sota Kawasaki,24,2001-07-30,25,Japan,172.0,beidfüßig,,Kyoto Sanga,1000000.0,Defensives Mittelfeld,2000000.0,2026,1-fsv-mainz-05
+272,Nadiem Amiri,10,1996-10-27,29,Deutschland,180.0,rechts,2028-06-30,Bayer 04 Leverkusen,1000000.0,Zentrales Mittelfeld,17000000.0,2026,1-fsv-mainz-05
+273,Paul Nebel,8,2002-10-10,23,Deutschland,169.0,beidfüßig,2027-06-30,1.FSV Mainz 05 U19,,Offensives Mittelfeld,18000000.0,2026,1-fsv-mainz-05
+274,Hyun-seok Hong,13,1999-06-16,27,Südkorea,177.0,links,2028-06-30,KAA Gent,4000000.0,Offensives Mittelfeld,2500000.0,2026,1-fsv-mainz-05
+275,Jae-sung Lee,7,1992-08-10,33,Südkorea,180.0,links,,Holstein Kiel,,Offensives Mittelfeld,2000000.0,2026,1-fsv-mainz-05
+276,Marco Richter,22,1997-11-24,28,Deutschland,176.0,rechts,2027-06-30,Hertha BSC,3000000.0,Offensives Mittelfeld,1500000.0,2026,1-fsv-mainz-05
+277,Otto Ruoppi,20,2006-01-31,20,Finnland,180.0,rechts,2030-06-30,Kuopion Palloseura,1300000.0,Offensives Mittelfeld,1000000.0,2026,1-fsv-mainz-05
+278,Sheraldo Becker,23,1995-02-09,31,Suriname,180.0,rechts,,CA Osasuna,500000.0,Linksaußen,1500000.0,2026,1-fsv-mainz-05
+279,Silas,26,1998-10-06,27,DR Kongo,189.0,rechts,,VfB Stuttgart,150000.0,Rechtsaußen,2000000.0,2026,1-fsv-mainz-05
+280,Benedict Hollerbach,17,2001-05-17,25,Deutschland,181.0,beidfüßig,2029-06-30,1.FC Union Berlin,10000000.0,Mittelstürmer,8000000.0,2026,1-fsv-mainz-05
+281,Ransford Königsdörffer,11,2001-09-13,24,Ghana,182.0,rechts,,Hamburger SV,,Mittelstürmer,5000000.0,2026,1-fsv-mainz-05
+282,Phillip Tietz,9,1997-07-09,29,Deutschland,190.0,rechts,2028-06-30,FC Augsburg,4000000.0,Mittelstürmer,4000000.0,2026,1-fsv-mainz-05
+283,William Bøving,14,2003-03-01,23,Dänemark,176.0,beidfüßig,2029-06-30,SK Sturm Graz,3500000.0,Mittelstürmer,3500000.0,2026,1-fsv-mainz-05
+284,Alynho Haidara,39,2008-07-26,18,Elfenbeinküste,190.0,,,FC Mainz 05 de Jacqueville,,Mittelstürmer,,2026,1-fsv-mainz-05
+285,Finn Dahmen,1,1998-03-27,28,Deutschland,186.0,rechts,2027-06-30,1.FSV Mainz 05,,Torwart,12000000.0,2026,fc-augsburg
+286,Nediljko Labrovic,22,1999-10-10,26,Kroatien,196.0,rechts,2029-06-30,HNK Rijeka,2500000.0,Torwart,2000000.0,2026,fc-augsburg
+287,Tom Wisbereit,48,2007-11-17,18,Deutschland,195.0,,2030-06-30,1.FC Union Berlin U19,,Torwart,,2026,fc-augsburg
+288,Chrislain Matsima,5,2002-05-15,24,Frankreich,193.0,rechts,2030-06-30,AS Monaco,5000000.0,Innenverteidiger,22000000.0,2026,fc-augsburg
+289,Noahkai Banks,40,2006-12-01,19,Vereinigte Staaten,193.0,rechts,2029-06-30,FC Augsburg II,,Innenverteidiger,20000000.0,2026,fc-augsburg
+290,Keven Schlotterbeck,31,1997-04-28,29,Deutschland,188.0,links,2027-06-30,SC Freiburg,2500000.0,Innenverteidiger,6000000.0,2026,fc-augsburg
+291,Calvin Brackelmann,2,1999-08-22,26,Deutschland,196.0,links,2030-06-30,SC Paderborn 07,,Innenverteidiger,3000000.0,2026,fc-augsburg
+292,Jeffrey Gouweleeuw,6,1991-07-10,35,Niederlande,188.0,rechts,2027-06-30,AZ Alkmaar,3000000.0,Innenverteidiger,1000000.0,2026,fc-augsburg
+293,Hennes Behrens,16,2005-01-19,21,Deutschland,175.0,rechts,2031-06-30,TSG 1899 Hoffenheim,3500000.0,Linker Verteidiger,5000000.0,2026,fc-augsburg
+294,Dimitrios Giannoulis,13,1995-10-17,30,Griechenland,178.0,links,2028-06-30,Norwich City,,Linker Verteidiger,3000000.0,2026,fc-augsburg
+295,Mads Pedersen,3,1996-09-01,29,Dänemark,178.0,links,2027-06-30,FC Nordsjaelland,800000.0,Linker Verteidiger,800000.0,2026,fc-augsburg
+296,Marius Wolf,27,1995-05-27,31,Deutschland,188.0,rechts,2027-06-30,Borussia Dortmund,,Rechter Verteidiger,2500000.0,2026,fc-augsburg
+297,Kristijan Jakic,17,1997-05-14,29,Kroatien,181.0,rechts,2028-06-30,Eintracht Frankfurt,5000000.0,Defensives Mittelfeld,6000000.0,2026,fc-augsburg
+298,Robin Fellhauer,19,1998-01-21,28,Deutschland,182.0,rechts,2029-06-30,SV 07 Elversberg,700000.0,Defensives Mittelfeld,3500000.0,2026,fc-augsburg
+299,Yannik Keitel,14,2000-02-15,26,Deutschland,186.0,beidfüßig,2027-06-30,VfB Stuttgart,100000.0,Defensives Mittelfeld,2000000.0,2026,fc-augsburg
+300,Tim Breithaupt,18,2002-02-07,24,Deutschland,192.0,rechts,2028-06-30,Karlsruher SC,2500000.0,Defensives Mittelfeld,800000.0,2026,fc-augsburg
+301,Han-Noah Massengo,4,2001-07-07,25,Frankreich,178.0,rechts,2030-06-30,FC Burnley,3000000.0,Zentrales Mittelfeld,8000000.0,2026,fc-augsburg
+302,Sima Suso,8,2005-05-28,21,Deutschland,190.0,links,2031-06-30,Fortuna Düsseldorf,1600000.0,Zentrales Mittelfeld,2800000.0,2026,fc-augsburg
+303,Alexis Claude-Maurice,20,1998-06-06,28,Frankreich,176.0,rechts,2027-06-30,OGC Nizza,,Offensives Mittelfeld,15000000.0,2026,fc-augsburg
+304,Fabian Rieder,32,2002-02-16,24,Schweiz,181.0,links,2030-06-30,FC Stade Rennes,7000000.0,Offensives Mittelfeld,12000000.0,2026,fc-augsburg
+305,Mert Kömür,36,2005-07-17,21,Deutschland,184.0,beidfüßig,2029-06-30,FC Augsburg U19,,Offensives Mittelfeld,12000000.0,2026,fc-augsburg
+306,Anton Kade,30,2004-01-17,22,Deutschland,185.0,rechts,2029-06-30,FC Basel 1893,2250000.0,Offensives Mittelfeld,10000000.0,2026,fc-augsburg
+307,Nathanaël Mbuku,34,2002-03-16,24,DR Kongo,170.0,links,,Stade Reims,,Linksaußen,2000000.0,2026,fc-augsburg
+308,Yusuf Kabadayi,,2004-02-02,22,Deutschland,186.0,rechts,2028-06-30,FC Bayern München II,900000.0,Linksaußen,1200000.0,2026,fc-augsburg
+309,Faik Sakar,23,2008-01-14,18,Deutschland,178.0,rechts,2030-06-30,RB Leipzig U19,,Linksaußen,200000.0,2026,fc-augsburg
+310,Rodrigo Ribeiro,9,2005-04-28,21,Portugal,186.0,rechts,2031-06-30,Sporting Lissabon B,5000000.0,Mittelstürmer,4000000.0,2026,fc-augsburg
+311,Uchenna Ogundu,39,2006-05-12,20,Nigeria,180.0,rechts,2031-06-30,Alanyaspor,4500000.0,Mittelstürmer,4000000.0,2026,fc-augsburg
+312,Michael Gregoritsch,11,1994-04-18,32,Österreich,193.0,links,2027-06-30,Bröndby IF,700000.0,Mittelstürmer,1500000.0,2026,fc-augsburg
+313,Steve Mounié,15,1994-09-29,31,Benin,189.0,rechts,2027-06-30,Stade Brest 29,,Mittelstürmer,1500000.0,2026,fc-augsburg
+314,Thomas Kastanaras,24,2003-01-09,23,Deutschland,186.0,,2027-06-30,VfB Stuttgart II,,Mittelstürmer,300000.0,2026,fc-augsburg
+315,Karl Hein,1,2002-04-13,24,Estland,193.0,rechts,,FC Arsenal,3000000.0,Torwart,3000000.0,2026,sv-werder-bremen
+316,Alexander Schlager,30,1996-02-01,30,Österreich,185.0,rechts,2029-06-30,FC Red Bull Salzburg,,Torwart,2000000.0,2026,sv-werder-bremen
+317,Markus Kolke,25,1990-08-18,35,Deutschland,187.0,rechts,,FC Hansa Rostock,75000.0,Torwart,300000.0,2026,sv-werder-bremen
+318,Stefan Smarkalev,37,2007-05-14,19,Bulgarien,188.0,rechts,2027-06-30,,,Torwart,150000.0,2026,sv-werder-bremen
+319,Karim Coulibaly,31,2007-05-23,19,Deutschland,191.0,links,2029-06-30,SV Werder Bremen U19,,Innenverteidiger,28000000.0,2026,sv-werder-bremen
+320,Marco Friedl,32,1998-03-16,28,Österreich,187.0,links,2028-06-30,FC Bayern München,3500000.0,Innenverteidiger,10000000.0,2026,sv-werder-bremen
+321,Oskar Wójcik,3,2003-07-21,23,Polen,191.0,rechts,2031-06-30,Cracovia,3000000.0,Innenverteidiger,5000000.0,2026,sv-werder-bremen
+322,Amos Pieper,5,1998-01-17,28,Deutschland,192.0,rechts,,Arminia Bielefeld,,Innenverteidiger,4000000.0,2026,sv-werder-bremen
+323,Niklas Stark,4,1995-04-14,31,Deutschland,190.0,rechts,,Hertha BSC,,Innenverteidiger,2500000.0,2026,sv-werder-bremen
+324,Julián Malatini,22,2001-05-31,25,Argentinien,191.0,rechts,,Defensa y Justicia,2000000.0,Innenverteidiger,2000000.0,2026,sv-werder-bremen
+325,Mick Schmetgens,33,2007-09-09,18,Deutschland,190.0,rechts,2029-06-30,SV Werder Bremen II,,Innenverteidiger,700000.0,2026,sv-werder-bremen
+326,Mats Heitmann,36,2006-02-11,20,Deutschland,195.0,,,SV Werder Bremen II,,Innenverteidiger,125000.0,2026,sv-werder-bremen
+327,Felix Agu,27,1999-09-27,26,Nigeria,180.0,rechts,2027-06-30,VfL Osnabrück,,Linker Verteidiger,4500000.0,2026,sv-werder-bremen
+328,Olivier Deman,2,2000-04-06,26,Belgien,181.0,links,2028-06-30,Cercle Brügge,4000000.0,Linker Verteidiger,3500000.0,2026,sv-werder-bremen
+329,Mitchell Weiser,8,1994-04-21,32,Deutschland,177.0,rechts,2027-06-30,Bayer 04 Leverkusen,,Rechter Verteidiger,3000000.0,2026,sv-werder-bremen
+330,Luca Höcker,35,2007-06-01,19,Deutschland,180.0,rechts,2029-06-30,SV Werder Bremen II,,Rechter Verteidiger,125000.0,2026,sv-werder-bremen
+331,Senne Lynen,14,1999-02-19,27,Belgien,185.0,rechts,,Union Saint-Gilloise,2500000.0,Defensives Mittelfeld,8000000.0,2026,sv-werder-bremen
+332,Skelly Alvero,28,2002-05-04,24,Frankreich,202.0,rechts,2028-06-30,Olympique Lyon,4750000.0,Defensives Mittelfeld,2000000.0,2026,sv-werder-bremen
+333,Dariusz Stalmach,23,2005-12-08,20,Polen,182.0,rechts,,1.FC Magdeburg,,Defensives Mittelfeld,1500000.0,2026,sv-werder-bremen
+334,Jens Stage,6,1996-11-08,29,Dänemark,187.0,rechts,2028-06-30,FC Kopenhagen,4000000.0,Zentrales Mittelfeld,14000000.0,2026,sv-werder-bremen
+335,Romano Schmid,10,2000-01-27,26,Österreich,168.0,rechts,2027-06-30,FC Red Bull Salzburg,1000000.0,Offensives Mittelfeld,15000000.0,2026,sv-werder-bremen
+336,Chuki,20,2004-04-29,22,Spanien,176.0,links,2030-06-30,Real Valladolid,,Offensives Mittelfeld,8000000.0,2026,sv-werder-bremen
+337,Patrice Covic,24,2007-06-25,19,Kroatien,182.0,rechts,,SV Werder Bremen U19,,Offensives Mittelfeld,4000000.0,2026,sv-werder-bremen
+338,Darwin Soylu,34,2007-03-23,19,Türkei,,links,,VfL Wolfsburg U19,,Offensives Mittelfeld,,2026,sv-werder-bremen
+339,Samuel Mbangula,7,2004-01-16,22,Belgien,179.0,rechts,2030-06-30,Juventus Turin,10000000.0,Linksaußen,8000000.0,2026,sv-werder-bremen
+340,Marco Grüll,17,1998-07-06,28,Österreich,181.0,beidfüßig,,SK Rapid Wien,,Linksaußen,4000000.0,2026,sv-werder-bremen
+341,Justin Njinmah,11,2000-11-15,25,Deutschland,185.0,rechts,,SV Werder Bremen II,,Rechtsaußen,5000000.0,2026,sv-werder-bremen
+342,Paul Erevbenagie,38,2007-08-19,18,Deutschland,,,,SV Werder Bremen II,,Rechtsaußen,125000.0,2026,sv-werder-bremen
+343,Keke Topp,9,2004-03-25,22,Deutschland,192.0,rechts,2028-06-30,FC Schalke 04,2000000.0,Mittelstürmer,3000000.0,2026,sv-werder-bremen
+344,Kenny Quetant,19,2006-07-17,20,Frankreich,189.0,rechts,2030-06-30,Le Havre AC,,Mittelstürmer,3000000.0,2026,sv-werder-bremen
+345,Salim Musah,29,2006-02-22,20,Deutschland,198.0,rechts,,SV Werder Bremen U19,,Mittelstürmer,2000000.0,2026,sv-werder-bremen
+346,Cedric Itten,26,1996-12-27,29,Schweiz,190.0,rechts,2029-06-30,Fortuna Düsseldorf,,Mittelstürmer,1800000.0,2026,sv-werder-bremen
+347,Dawid Kownacki,21,1997-03-14,29,Polen,186.0,rechts,2027-06-30,Fortuna Düsseldorf,,Mittelstürmer,1500000.0,2026,sv-werder-bremen
+348,Moritz Nicolas,1,1997-10-21,28,Deutschland,193.0,rechts,2029-06-30,Borussia Mönchengladbach II,,Torwart,8000000.0,2026,borussia-monchengladbach
+349,Jan Olschowsky,23,2001-11-18,24,Deutschland,184.0,rechts,2027-06-30,Borussia Mönchengladbach II,,Torwart,450000.0,2026,borussia-monchengladbach
+350,Daniel Batz,33,1991-01-12,35,Deutschland,191.0,beidfüßig,2029-06-30,1.FSV Mainz 05,,Torwart,350000.0,2026,borussia-monchengladbach
+351,Tobias Sippel,21,1988-03-22,38,Deutschland,183.0,rechts,2027-06-30,1.FC Kaiserslautern,,Torwart,300000.0,2026,borussia-monchengladbach
+352,Nico Elvedi,30,1996-09-30,29,Schweiz,189.0,rechts,2027-06-30,FC Zürich,4000000.0,Innenverteidiger,8000000.0,2026,borussia-monchengladbach
+353,Kevin Diks,4,1996-10-06,29,Indonesien,186.0,rechts,2030-06-30,FC Kopenhagen,,Innenverteidiger,5000000.0,2026,borussia-monchengladbach
+354,Fabio Chiarodia,2,2005-06-05,21,Italien,186.0,links,2028-06-30,SV Werder Bremen,2000000.0,Innenverteidiger,3000000.0,2026,borussia-monchengladbach
+355,Jan Leszczyński,5,2007-04-12,19,Polen,191.0,beidfüßig,2030-06-30,Legia Warschau,3000000.0,Innenverteidiger,600000.0,2026,borussia-monchengladbach
+356,Lukas Ullrich,26,2004-03-16,22,Deutschland,180.0,links,2029-06-30,Hertha BSC II,,Linker Verteidiger,6000000.0,2026,borussia-monchengladbach
+357,David Herold,20,2003-02-20,23,Deutschland,185.0,links,2030-06-30,Karlsruher SC,3500000.0,Linker Verteidiger,4000000.0,2026,borussia-monchengladbach
+358,Joe Scally,29,2002-12-31,23,Vereinigte Staaten,184.0,rechts,2027-06-30,New York City FC,1800000.0,Rechter Verteidiger,7000000.0,2026,borussia-monchengladbach
+359,Yukhym Konoplya,22,1999-08-26,26,Ukraine,180.0,rechts,2029-06-30,Shakhtar Donetsk,,Rechter Verteidiger,5000000.0,2026,borussia-monchengladbach
+360,Daiki Hashioka,14,1999-05-17,27,Japan,184.0,rechts,2027-06-30,SK Slavia Prag,,Rechter Verteidiger,1500000.0,2026,borussia-monchengladbach
+361,Philipp Sander,16,1998-02-21,28,Deutschland,186.0,beidfüßig,2028-06-30,Holstein Kiel,1000000.0,Defensives Mittelfeld,4000000.0,2026,borussia-monchengladbach
+362,Zento Uno,47,2003-11-20,22,Japan,176.0,rechts,2030-06-30,Shimizu S-Pulse,500000.0,Defensives Mittelfeld,1000000.0,2026,borussia-monchengladbach
+363,Jens Castrop,17,2003-07-29,23,Südkorea,178.0,rechts,2029-06-30,1.FC Nürnberg,4500000.0,Zentrales Mittelfeld,10000000.0,2026,borussia-monchengladbach
+364,Enzo Leopold,8,2000-07-23,26,Deutschland,174.0,rechts,2030-06-30,Hannover 96,,Zentrales Mittelfeld,4000000.0,2026,borussia-monchengladbach
+365,Florian Neuhaus,10,1997-03-16,29,Deutschland,185.0,rechts,2027-06-30,TSV 1860 München,,Zentrales Mittelfeld,2500000.0,2026,borussia-monchengladbach
+366,Wael Mohya,36,2008-12-31,17,Deutschland,179.0,beidfüßig,,Borussia Mönchengladbach U19,,Offensives Mittelfeld,17000000.0,2026,borussia-monchengladbach
+367,Kevin Stöger,7,1993-08-27,32,Österreich,175.0,links,2027-06-30,VfL Bochum,,Offensives Mittelfeld,1800000.0,2026,borussia-monchengladbach
+368,Robin Hack,25,1998-08-27,27,Deutschland,178.0,rechts,2029-06-30,Arminia Bielefeld,1100000.0,Linksaußen,7000000.0,2026,borussia-monchengladbach
+369,Hugo Bolin,38,2003-07-24,23,Schweden,179.0,rechts,2030-06-30,Malmö FF,2000000.0,Linksaußen,6000000.0,2026,borussia-monchengladbach
+370,Franck Honorat,9,1996-08-11,29,Frankreich,180.0,rechts,2029-06-30,Stade Brest 29,8000000.0,Rechtsaußen,7000000.0,2026,borussia-monchengladbach
+371,Nathan Ngoumou,19,2000-03-14,26,Kamerun,185.0,rechts,2027-06-30,FC Toulouse,8000000.0,Rechtsaußen,3500000.0,2026,borussia-monchengladbach
+372,Tim Kleindienst,11,1995-08-31,30,Deutschland,194.0,beidfüßig,2029-06-30,1.FC Heidenheim 1846,7000000.0,Mittelstürmer,8000000.0,2026,borussia-monchengladbach
+373,Isac Lidberg,3,1998-09-08,27,Schweden,187.0,rechts,2030-06-30,SV Darmstadt 98,3500000.0,Mittelstürmer,5000000.0,2026,borussia-monchengladbach
+374,Shuto Machino,18,1999-09-30,26,Japan,185.0,rechts,2029-06-30,Holstein Kiel,8000000.0,Mittelstürmer,4000000.0,2026,borussia-monchengladbach
+375,Tomas Cvancara,31,2000-08-13,25,Tschechien,190.0,rechts,2028-06-30,AC Sparta Prag,10500000.0,Mittelstürmer,2000000.0,2026,borussia-monchengladbach
+376,Marvin Schwäbe,1,1995-04-25,31,Deutschland,190.0,rechts,2027-06-30,Bröndby IF,,Torwart,3000000.0,2026,1-fc-koln
+377,Ron-Robert Zieler,20,1989-02-12,37,Deutschland,188.0,rechts,2027-06-30,Hannover 96,200000.0,Torwart,500000.0,2026,1-fc-koln
+378,Matthias Köbbing,44,1997-05-28,29,Deutschland,196.0,beidfüßig,2027-06-30,1.FC Köln II,,Torwart,100000.0,2026,1-fc-koln
+379,Martin James,21,2008-02-14,18,Frankreich,186.0,,2029-06-30,Paris Saint-Germain Espoirs,,Torwart,,2026,1-fc-koln
+380,Jahmai Simpson-Pusey,22,2005-11-04,20,England,187.0,rechts,2030-06-30,Manchester City U21,6000000.0,Innenverteidiger,9000000.0,2026,1-fc-koln
+381,Rav van den Berg,33,2004-07-07,22,Niederlande,191.0,rechts,2030-06-30,FC Middlesbrough,8000000.0,Innenverteidiger,7000000.0,2026,1-fc-koln
+382,Joël Schmied,2,1998-09-23,27,Schweiz,188.0,rechts,2029-06-30,FC Sion,2500000.0,Innenverteidiger,3000000.0,2026,1-fc-koln
+383,Julian Pauli,3,2005-07-18,21,Deutschland,190.0,rechts,2028-06-30,1.FC Köln U19,,Innenverteidiger,2500000.0,2026,1-fc-koln
+384,Luka Lochoshvili,24,1998-05-29,28,Georgien,192.0,links,2029-06-30,1.FC Nürnberg,4900000.0,Innenverteidiger,2500000.0,2026,1-fc-koln
+385,Timo Hübers,4,1996-07-20,30,Deutschland,190.0,rechts,2027-06-30,Hannover 96,,Innenverteidiger,1500000.0,2026,1-fc-koln
+386,Elias Bakatukanda,,2004-04-13,22,DR Kongo,195.0,beidfüßig,2028-06-30,1.FC Köln U19,,Innenverteidiger,300000.0,2026,1-fc-koln
+387,Gideon Mensah,14,1998-07-18,28,Ghana,178.0,links,2028-06-30,AJ Auxerre,,Linker Verteidiger,4000000.0,2026,1-fc-koln
+388,Sebastian Sebulonsen,28,2000-01-27,26,Norwegen,187.0,rechts,2028-06-30,Bröndby IF,2500000.0,Rechter Verteidiger,5500000.0,2026,1-fc-koln
+389,Tom Krauß,5,2001-06-22,25,Deutschland,182.0,rechts,2029-06-30,1.FSV Mainz 05,3500000.0,Defensives Mittelfeld,4500000.0,2026,1-fc-koln
+390,Paul Okon-Engstler,23,2005-01-24,21,Australien,185.0,links,2030-06-30,Sydney FC,1750000.0,Defensives Mittelfeld,1200000.0,2026,1-fc-koln
+391,Ísak Jóhannesson,8,2003-03-23,23,Island,184.0,links,2030-06-30,Fortuna Düsseldorf,5500000.0,Zentrales Mittelfeld,8000000.0,2026,1-fc-koln
+392,Alessio Castro-Montes,17,1997-05-17,29,Belgien,175.0,rechts,2028-06-30,Union Saint-Gilloise,2000000.0,Rechtes Mittelfeld,2500000.0,2026,1-fc-koln
+393,Said El Mala,13,2006-08-26,19,Deutschland,187.0,beidfüßig,2030-06-30,FC Viktoria Köln,2230000.0,Linksaußen,45000000.0,2026,1-fc-koln
+394,Linton Maina,37,1999-06-23,27,Deutschland,180.0,rechts,,Hannover 96,,Linksaußen,3000000.0,2026,1-fc-koln
+395,Marius Bülter,30,1993-03-29,33,Deutschland,188.0,rechts,2027-06-30,TSG 1899 Hoffenheim,1000000.0,Linksaußen,1800000.0,2026,1-fc-koln
+396,Reigan Heskey,11,2008-01-19,18,England,184.0,rechts,2031-06-30,Manchester City U21,2000000.0,Linksaußen,,2026,1-fc-koln
+397,Jan Thielmann,29,2002-05-26,24,Deutschland,178.0,rechts,2028-06-30,1.FC Köln U19,,Rechtsaußen,5000000.0,2026,1-fc-koln
+398,Youssoupha Niang,38,2006-03-25,20,Deutschland,185.0,rechts,2027-06-30,1.FC Köln II,,Rechtsaußen,2000000.0,2026,1-fc-koln
+399,Ragnar Ache,9,1998-07-28,28,Deutschland,183.0,rechts,2029-06-30,1.FC Kaiserslautern,4500000.0,Mittelstürmer,9000000.0,2026,1-fc-koln
+400,Luca Waldschmidt,7,1996-05-19,30,Deutschland,181.0,links,2027-06-30,VfL Wolfsburg,,Mittelstürmer,2000000.0,2026,1-fc-koln
+401,Imad Rondic,,1999-02-16,27,Bosnien-Herzegowina,190.0,links,2029-06-30,Widzew Lodz,1500000.0,Mittelstürmer,750000.0,2026,1-fc-koln
+402,Malek El Mala,19,2005-04-02,21,Deutschland,194.0,rechts,2030-06-30,FC Viktoria Köln,125000.0,Mittelstürmer,250000.0,2026,1-fc-koln
+403,Frederik Rönnow,1,1992-08-04,34,Dänemark,188.0,rechts,,Eintracht Frankfurt,1000000.0,Torwart,2000000.0,2026,1-fc-union-berlin
+404,Matheo Raab,31,1998-12-18,27,Deutschland,186.0,rechts,,Hamburger SV,400000.0,Torwart,600000.0,2026,1-fc-union-berlin
+405,Carl Klaus,25,1994-01-16,32,Deutschland,189.0,rechts,,1.FC Nürnberg,,Torwart,350000.0,2026,1-fc-union-berlin
+406,Leopold Querfeld,14,2003-12-20,22,Österreich,190.0,rechts,,SK Rapid Wien,3000000.0,Innenverteidiger,20000000.0,2026,1-fc-union-berlin
+407,Zeno Van Den Bosch,4,2003-07-06,23,Belgien,191.0,rechts,,Royal Antwerpen FC,,Innenverteidiger,6000000.0,2026,1-fc-union-berlin
+408,Stanley Nsoki,34,1999-04-09,27,Frankreich,184.0,links,,TSG 1899 Hoffenheim,1500000.0,Innenverteidiger,2000000.0,2026,1-fc-union-berlin
+409,Marvin Friedrich,5,1995-12-13,30,Deutschland,193.0,rechts,,Borussia Mönchengladbach,,Innenverteidiger,1800000.0,2026,1-fc-union-berlin
+410,Oluwaseun Ogbemudia,41,2006-07-18,20,Deutschland,188.0,rechts,2029-06-30,1.FC Union Berlin U19,,Innenverteidiger,800000.0,2026,1-fc-union-berlin
+411,Tom Rothe,15,2004-10-29,21,Deutschland,193.0,links,,Borussia Dortmund,5000000.0,Linker Verteidiger,10000000.0,2026,1-fc-union-berlin
+412,Derrick Köhn,39,1999-02-04,27,Ghana,180.0,links,2029-06-30,Galatasaray,4000000.0,Linker Verteidiger,4000000.0,2026,1-fc-union-berlin
+413,Andrik Markgraf,3,2006-03-07,20,Deutschland,172.0,links,,1.FC Union Berlin U19,,Linker Verteidiger,300000.0,2026,1-fc-union-berlin
+414,Josip Juranovic,18,1995-08-16,30,Kroatien,173.0,rechts,,Celtic Glasgow,8550000.0,Rechter Verteidiger,2000000.0,2026,1-fc-union-berlin
+415,Christopher Trimmel,28,1987-02-24,39,Österreich,189.0,rechts,2027-06-30,SK Rapid Wien,,Rechter Verteidiger,600000.0,2026,1-fc-union-berlin
+416,Aljoscha Kemlein,6,2004-08-02,22,Deutschland,188.0,rechts,2029-06-30,1.FC Union Berlin U19,,Defensives Mittelfeld,12000000.0,2026,1-fc-union-berlin
+417,Rani Khedira,8,1994-01-27,32,Tunesien,188.0,rechts,,FC Augsburg,,Defensives Mittelfeld,2000000.0,2026,1-fc-union-berlin
+418,Tim Blaszczak,44,2007-08-25,18,Deutschland,,,,1.FC Union Berlin U19,,Defensives Mittelfeld,,2026,1-fc-union-berlin
+419,András Schäfer,13,1999-04-13,27,Ungarn,178.0,rechts,2027-06-30,DAC Dunajska Streda,1000000.0,Zentrales Mittelfeld,4500000.0,2026,1-fc-union-berlin
+420,Janik Haberer,19,1994-04-02,32,Deutschland,187.0,rechts,2027-06-30,SC Freiburg,,Zentrales Mittelfeld,2000000.0,2026,1-fc-union-berlin
+421,Robert Skov,24,1996-05-20,30,Dänemark,185.0,links,,Vereinslos,,Linkes Mittelfeld,2000000.0,2026,1-fc-union-berlin
+422,Woo-yeong Jeong,11,1999-09-20,26,Südkorea,179.0,rechts,,VfB Stuttgart,4000000.0,Offensives Mittelfeld,3500000.0,2026,1-fc-union-berlin
+423,Livan Burcu,9,2004-09-28,21,Türkei,180.0,rechts,,SV Sandhausen,300000.0,Linksaußen,4000000.0,2026,1-fc-union-berlin
+424,Linus Güther,49,2010-04-08,16,Deutschland,175.0,rechts,2028-06-30,1.FC Union Berlin U19,,Linksaußen,1000000.0,2026,1-fc-union-berlin
+425,Julien Friedrich,38,2006-11-12,19,Deutschland,176.0,links,,1.FC Union Berlin U19,,Linksaußen,125000.0,2026,1-fc-union-berlin
+426,Ilyas Ansah,10,2004-11-08,21,Deutschland,197.0,rechts,,SC Paderborn 07,4000000.0,Mittelstürmer,12000000.0,2026,1-fc-union-berlin
+427,Emmanuel Latte Lath,29,1999-01-01,27,Elfenbeinküste,176.0,rechts,2027-06-30,Atlanta United FC,,Mittelstürmer,10000000.0,2026,1-fc-union-berlin
+428,Andrej Ilic,23,2000-04-03,26,Serbien,189.0,rechts,2027-06-30,LOSC Lille,5000000.0,Mittelstürmer,9000000.0,2026,1-fc-union-berlin
+429,Oliver Burke,7,1997-04-07,29,Schottland,188.0,rechts,2029-06-30,SV Werder Bremen,,Mittelstürmer,3000000.0,2026,1-fc-union-berlin
+430,Marin Ljubicic,27,2002-02-28,24,Kroatien,183.0,rechts,,LASK,4500000.0,Mittelstürmer,2000000.0,2026,1-fc-union-berlin
+431,Tim Skarke,21,1996-09-07,29,Deutschland,181.0,rechts,,SV Darmstadt 98,,Mittelstürmer,1500000.0,2026,1-fc-union-berlin
+432,Dmytro Bogdanov,30,2007-03-06,19,Ukraine,188.0,rechts,2029-06-30,SG Dynamo Dresden,600000.0,Mittelstürmer,800000.0,2026,1-fc-union-berlin
+433,Mekhi Gray,32,2007-02-19,19,Jamaika,197.0,rechts,,1.FC Union Berlin U19,,Mittelstürmer,,2026,1-fc-union-berlin
+434,Sander Tangvik,12,2002-11-29,23,Norwegen,193.0,rechts,2030-06-30,Rosenborg BK,2600000.0,Torwart,3000000.0,2026,hamburger-sv
+435,Daniel Heuer Fernandes,1,1992-11-13,33,Portugal,188.0,rechts,2028-06-30,SV Darmstadt 98,1300000.0,Torwart,1200000.0,2026,hamburger-sv
+436,Fernando Dickes,41,2007-10-13,18,Deutschland,193.0,links,2028-06-30,RB Leipzig U19,,Torwart,300000.0,2026,hamburger-sv
+437,Nicolás Capaldo,24,1998-09-14,27,Argentinien,177.0,rechts,2028-06-30,FC Red Bull Salzburg,2100000.0,Innenverteidiger,8000000.0,2026,hamburger-sv
+438,Warmed Omari,17,2000-04-23,26,Komoren,188.0,rechts,2030-06-30,FC Stade Rennes,2000000.0,Innenverteidiger,4000000.0,2026,hamburger-sv
+439,Jordan Torunarigha,23,1997-08-07,28,Nigeria,191.0,links,2028-06-30,KAA Gent,,Innenverteidiger,4000000.0,2026,hamburger-sv
+440,Daniel Elfadli,8,1997-04-06,29,Libyen,188.0,rechts,2028-06-30,1.FC Magdeburg,800000.0,Innenverteidiger,3000000.0,2026,hamburger-sv
+441,Shafiq Nandja,43,2007-01-15,19,Deutschland,195.0,rechts,,Hamburger SV II,,Innenverteidiger,500000.0,2026,hamburger-sv
+442,Joel Agyekum,39,2005-03-08,21,Deutschland,190.0,links,,Hamburger SV II,,Innenverteidiger,150000.0,2026,hamburger-sv
+443,Miro Muheim,28,1998-03-24,28,Schweiz,182.0,links,2027-06-30,FC St. Gallen 1879,1500000.0,Linker Verteidiger,5000000.0,2026,hamburger-sv
+444,Louis Lemke,37,2009-10-08,16,Deutschland,,links,2028-06-30,,,Linker Verteidiger,300000.0,2026,hamburger-sv
+445,Nicolai Remberg,21,2000-06-19,26,Deutschland,188.0,rechts,2028-06-30,Holstein Kiel,2400000.0,Defensives Mittelfeld,9000000.0,2026,hamburger-sv
+446,Kofi Amoako,22,2005-05-06,21,Deutschland,186.0,rechts,,SG Dynamo Dresden,1800000.0,Defensives Mittelfeld,4000000.0,2026,hamburger-sv
+447,Albert Sambi Lokonga,6,1999-10-22,26,Belgien,183.0,rechts,2028-06-30,FC Arsenal,300000.0,Zentrales Mittelfeld,12000000.0,2026,hamburger-sv
+448,Bilal Nadir,4,2003-11-28,22,Marokko,186.0,links,2029-06-30,Olympique Marseille,,Zentrales Mittelfeld,8000000.0,2026,hamburger-sv
+449,Martin Adeline,5,2003-12-02,22,Frankreich,180.0,rechts,2030-06-30,ESTAC Troyes,4000000.0,Offensives Mittelfeld,10000000.0,2026,hamburger-sv
+450,Albert Grønbaek,11,2001-05-23,25,Dänemark,181.0,rechts,2030-06-30,FC Stade Rennes,4700000.0,Offensives Mittelfeld,5000000.0,2026,hamburger-sv
+451,Immanuel Pherai,10,2001-04-25,25,Suriname,175.0,rechts,2027-06-30,Eintracht Braunschweig,750000.0,Offensives Mittelfeld,1500000.0,2026,hamburger-sv
+452,Mads Bröcker,47,2008-06-03,18,Deutschland,185.0,,2030-06-30,RB Leipzig U19,,Offensives Mittelfeld,,2026,hamburger-sv
+453,Alexander Røssing-Lelesiit,38,2007-01-20,19,Norwegen,184.0,rechts,2030-06-30,Lillestrøm SK,2800000.0,Linksaußen,5000000.0,2026,hamburger-sv
+454,Fábio Baldé,45,2005-07-20,21,Portugal,182.0,rechts,2029-06-30,Hamburger SV U19,,Linksaußen,5000000.0,2026,hamburger-sv
+455,Jean-Luc Dompé,7,1995-08-12,30,Frankreich,170.0,rechts,2027-06-30,Zulte Waregem,1100000.0,Linksaußen,2500000.0,2026,hamburger-sv
+456,Finn Barkowsky,,2008-02-12,18,Deutschland,,rechts,,Hamburger SV U19,,Linksaußen,,2026,hamburger-sv
+457,Rayan Philippe,14,2000-10-23,25,Frankreich,182.0,links,2029-06-30,Eintracht Braunschweig,3000000.0,Rechtsaußen,4000000.0,2026,hamburger-sv
+458,Emir Sahiti,29,1998-11-29,27,Kosovo,184.0,rechts,2027-06-30,HNK Hajduk Split,1200000.0,Rechtsaußen,1700000.0,2026,hamburger-sv
+459,Bakery Jatta,18,1998-06-06,28,Gambia,184.0,rechts,2029-06-30,Vereinslos,,Rechtsaußen,1000000.0,2026,hamburger-sv
+460,Otto Stange,19,2007-02-09,19,Deutschland,187.0,rechts,2028-06-30,Hamburger SV II,,Mittelstürmer,4000000.0,2026,hamburger-sv
+461,Patson Daka,27,1998-10-09,27,Sambia,183.0,rechts,2027-06-30,Leicester City,,Mittelstürmer,3000000.0,2026,hamburger-sv
+462,Yussuf Poulsen,15,1994-06-15,32,Dänemark,192.0,rechts,2027-06-30,RB Leipzig,1000000.0,Mittelstürmer,1000000.0,2026,hamburger-sv
+463,Loris Karius,1,1993-06-22,33,Deutschland,191.0,rechts,2028-06-30,Vereinslos,,Torwart,800000.0,2026,fc-schalke-04
+464,Kevin Müller,22,1991-03-15,35,Deutschland,190.0,rechts,,1.FC Heidenheim 1846,50000.0,Torwart,300000.0,2026,fc-schalke-04
+465,Johannes Siebeking,36,2006-03-02,20,Deutschland,195.0,links,2029-06-30,FC Schalke 04 U19,,Torwart,125000.0,2026,fc-schalke-04
+466,Mertcan Ayhan,43,2006-09-08,19,Türkei,190.0,rechts,2030-06-30,FC Schalke 04 U19,,Innenverteidiger,8000000.0,2026,fc-schalke-04
+467,Maximilian Wöber,39,1998-02-04,28,Österreich,188.0,links,2027-06-30,Leeds United,,Innenverteidiger,3000000.0,2026,fc-schalke-04
+468,Hasan Kuruçay,4,1997-08-31,28,Türkei,188.0,rechts,2027-06-30,Oud-Heverlee Leuven,,Innenverteidiger,2000000.0,2026,fc-schalke-04
+469,Nikola Katic,25,1996-10-10,29,Bosnien-Herzegowina,194.0,rechts,2028-06-30,FC Zürich,450000.0,Innenverteidiger,1800000.0,2026,fc-schalke-04
+470,Timo Becker,5,1997-03-25,29,Deutschland,190.0,rechts,2029-06-30,Holstein Kiel,,Innenverteidiger,1500000.0,2026,fc-schalke-04
+471,Dylan Leonard,3,2007-08-30,18,Australien,187.0,rechts,2030-06-30,Vereinslos,,Innenverteidiger,400000.0,2026,fc-schalke-04
+472,Robin Gosens,8,1994-07-05,32,Deutschland,183.0,links,2027-06-30,AC Florenz,,Linker Verteidiger,4000000.0,2026,fc-schalke-04
+473,Vitalie Becker,33,2005-03-03,21,Deutschland,179.0,links,2027-06-30,FC Schalke 04 U19,,Linker Verteidiger,3000000.0,2026,fc-schalke-04
+474,Anton Donkor,30,1997-11-11,28,Deutschland,186.0,beidfüßig,2027-06-30,Eintracht Braunschweig,,Linker Verteidiger,400000.0,2026,fc-schalke-04
+475,Adrian Gantenbein,17,2001-04-18,25,Schweiz,183.0,rechts,2028-06-30,FC Winterthur,300000.0,Rechter Verteidiger,900000.0,2026,fc-schalke-04
+476,Dejan Ljubicic,21,1997-10-08,28,Österreich,187.0,rechts,2028-06-30,GNK Dinamo Zagreb,750000.0,Defensives Mittelfeld,3000000.0,2026,fc-schalke-04
+477,Ron Schallenberg,6,1998-10-06,27,Deutschland,185.0,rechts,2027-06-30,SC Paderborn 07,2000000.0,Defensives Mittelfeld,2000000.0,2026,fc-schalke-04
+478,Satoshi Tanaka,13,2002-08-13,23,Japan,175.0,links,2030-06-30,Fortuna Düsseldorf,1000000.0,Defensives Mittelfeld,2000000.0,2026,fc-schalke-04
+479,Max Grüger,37,2005-05-24,21,Deutschland,186.0,rechts,2028-06-30,FC Schalke 04 U19,,Defensives Mittelfeld,1200000.0,2026,fc-schalke-04
+480,Luca Vozar,38,2007-05-06,19,Deutschland,,links,,FC Schalke 04 U19,,Defensives Mittelfeld,,2026,fc-schalke-04
+481,Soufiane El-Faouzi,23,2002-07-13,24,Marokko,178.0,rechts,2030-06-30,Alemannia Aachen,200000.0,Zentrales Mittelfeld,9000000.0,2026,fc-schalke-04
+482,Janik Bachmann,14,1996-05-06,30,Deutschland,196.0,rechts,2027-06-30,FC Hansa Rostock,,Zentrales Mittelfeld,500000.0,2026,fc-schalke-04
+483,Finn Porath,27,1997-02-23,29,Deutschland,180.0,rechts,2027-06-30,Holstein Kiel,500000.0,Rechtes Mittelfeld,800000.0,2026,fc-schalke-04
+484,Adil Aouchiche,24,2002-07-15,24,Algerien,181.0,rechts,2027-06-30,AFC Sunderland,,Offensives Mittelfeld,3500000.0,2026,fc-schalke-04
+485,Kenan Karaman,19,1994-03-05,32,Türkei,189.0,rechts,2028-06-30,Besiktas JK,,Offensives Mittelfeld,1800000.0,2026,fc-schalke-04
+486,Moussa Sylla,9,1999-11-25,26,Mali,180.0,rechts,2028-06-30,Pau FC,2500000.0,Mittelstürmer,5000000.0,2026,fc-schalke-04
+487,Junior Adamu,20,2001-06-06,25,Österreich,183.0,rechts,2029-06-30,SC Freiburg,800000.0,Mittelstürmer,3000000.0,2026,fc-schalke-04
+488,Christian Gomis,7,2000-08-09,25,Senegal,185.0,rechts,2029-06-30,FC Winterthur,1500000.0,Mittelstürmer,1200000.0,2026,fc-schalke-04
+489,Edin Dzeko,10,1986-03-17,40,Bosnien-Herzegowina,192.0,rechts,2027-06-30,AC Florenz,,Mittelstürmer,1000000.0,2026,fc-schalke-04
+490,Bryan Lasme,11,1998-11-14,27,Frankreich,194.0,rechts,2027-06-30,Arminia Bielefeld,,Mittelstürmer,600000.0,2026,fc-schalke-04
+491,Emil Højlund,15,2005-01-04,21,Dänemark,192.0,rechts,2028-06-30,FC Kopenhagen,300000.0,Mittelstürmer,500000.0,2026,fc-schalke-04
+492,Nicolas Kristof,20,1999-12-20,26,Österreich,187.0,beidfüßig,2029-06-30,FC-Astoria Walldorf,,Torwart,2500000.0,2026,sv-07-elversberg
+493,Tim Boss,28,1993-06-28,33,Deutschland,186.0,beidfüßig,2027-06-30,1.FC Magdeburg,,Torwart,200000.0,2026,sv-07-elversberg
+494,Frank Lehmann,1,1989-04-29,37,Deutschland,193.0,rechts,2027-06-30,VfL Osnabrück,,Torwart,100000.0,2026,sv-07-elversberg
+495,Elias Etringer,12,2007-11-24,18,Deutschland,,,2029-06-30,SC Freiburg U19,,Torwart,,2026,sv-07-elversberg
+496,Lukas Pinckert,19,2000-01-22,26,Deutschland,185.0,rechts,2028-06-30,FC Viktoria 1889 Berlin,,Innenverteidiger,2500000.0,2026,sv-07-elversberg
+497,Luca Sirch,26,1999-06-14,27,Deutschland,186.0,rechts,2029-06-30,1.FC Kaiserslautern,,Innenverteidiger,2200000.0,2026,sv-07-elversberg
+498,Maximilian Rohr,31,1995-06-27,31,Deutschland,193.0,beidfüßig,2028-06-30,SC Paderborn 07,100000.0,Innenverteidiger,800000.0,2026,sv-07-elversberg
+499,Florian Le Joncour,3,1995-02-03,31,Frankreich,193.0,links,2027-06-30,RWD Molenbeek,200000.0,Innenverteidiger,500000.0,2026,sv-07-elversberg
+500,Luis Seifert,4,2004-01-26,22,Deutschland,188.0,rechts,2028-06-30,Hamburger SV II,,Innenverteidiger,200000.0,2026,sv-07-elversberg
+501,Lasse Günther,21,2003-03-21,23,Deutschland,181.0,links,2030-06-30,FC Augsburg,300000.0,Linker Verteidiger,2500000.0,2026,sv-07-elversberg
+502,Nicholas Mickelson,2,1999-07-24,27,Thailand,179.0,rechts,2027-06-30,Odense Boldklub,,Linker Verteidiger,1000000.0,2026,sv-07-elversberg
+503,Felix Keidel,43,2003-06-14,23,Deutschland,178.0,rechts,2028-06-30,FC Ingolstadt 04,400000.0,Rechter Verteidiger,1200000.0,2026,sv-07-elversberg
+504,Jan Gyamerah,30,1995-06-18,31,Ghana,184.0,rechts,2027-06-30,1.FC Kaiserslautern,,Rechter Verteidiger,700000.0,2026,sv-07-elversberg
+505,Lukasz Poreba,8,2000-03-13,26,Polen,179.0,rechts,2029-06-30,Hamburger SV,1600000.0,Defensives Mittelfeld,2500000.0,2026,sv-07-elversberg
+506,Amara Condé,6,1997-01-06,29,Deutschland,173.0,rechts,2028-06-30,SC Heerenveen,400000.0,Defensives Mittelfeld,900000.0,2026,sv-07-elversberg
+507,Frederik Schmahl,17,2002-12-21,23,Deutschland,183.0,rechts,2027-06-30,TSG 1899 Hoffenheim II,,Zentrales Mittelfeld,750000.0,2026,sv-07-elversberg
+508,Francis Onyeka,40,2007-04-29,19,Deutschland,186.0,links,2027-06-30,Bayer 04 Leverkusen,,Offensives Mittelfeld,10000000.0,2026,sv-07-elversberg
+509,Noah Darvich,10,2006-09-25,19,Deutschland,184.0,links,2027-06-30,VfB Stuttgart,,Offensives Mittelfeld,4000000.0,2026,sv-07-elversberg
+510,Maurice Krattenmacher,7,2005-08-11,20,Deutschland,180.0,beidfüßig,2030-06-30,FC Bayern München,,Linksaußen,3000000.0,2026,sv-07-elversberg
+511,Tom Zimmerschied,29,1998-09-22,27,Deutschland,180.0,rechts,2029-06-30,SG Dynamo Dresden,400000.0,Linksaußen,1500000.0,2026,sv-07-elversberg
+512,Filimon Gerezgiher,27,2000-07-04,26,Eritrea,183.0,links,2027-06-30,SGV Freiberg,,Linksaußen,250000.0,2026,sv-07-elversberg
+513,Cole Campbell,39,2006-02-20,20,Vereinigte Staaten,170.0,links,2030-06-30,Borussia Dortmund,6000000.0,Rechtsaußen,5000000.0,2026,sv-07-elversberg
+514,Lukas Petkov,25,2000-11-01,25,Bulgarien,183.0,rechts,2027-06-30,FC Augsburg,350000.0,Rechtsaußen,3000000.0,2026,sv-07-elversberg
+515,Jason Ceka,11,1999-11-10,26,Deutschland,169.0,beidfüßig,2028-06-30,1.FC Magdeburg,,Rechtsaußen,800000.0,2026,sv-07-elversberg
+516,Raif Adam,15,2005-09-07,20,Deutschland,188.0,links,2029-06-30,Hamburger SV II,650000.0,Rechtsaußen,500000.0,2026,sv-07-elversberg
+517,David Mokwa,42,2004-05-03,22,Frankreich,180.0,rechts,2029-06-30,TSG 1899 Hoffenheim,1500000.0,Mittelstürmer,4000000.0,2026,sv-07-elversberg
+518,Luca Pfeiffer,16,1996-08-20,29,Deutschland,196.0,rechts,2028-06-30,VfB Stuttgart,,Mittelstürmer,500000.0,2026,sv-07-elversberg
+519,Luca Schnellbacher,24,1994-05-06,32,Deutschland,180.0,rechts,2028-06-30,Preußen Münster,,Mittelstürmer,500000.0,2026,sv-07-elversberg
+520,Nahuel Noll,15,2003-03-17,23,Deutschland,191.0,beidfüßig,2027-06-30,TSG 1899 Hoffenheim,,Torwart,2000000.0,2026,sc-paderborn-07
+521,Markus Schubert,1,1998-06-12,28,Deutschland,189.0,rechts,2028-06-30,Vitesse Arnheim,,Torwart,500000.0,2026,sc-paderborn-07
+522,Florian Pruhs,31,2006-02-06,20,Deutschland,190.0,rechts,,SC Paderborn 07 U17,,Torwart,150000.0,2026,sc-paderborn-07
+523,Mattes Hansen,22,2004-05-15,22,Deutschland,183.0,rechts,,FC Schalke 04 U19,,Innenverteidiger,2500000.0,2026,sc-paderborn-07
+524,Tjark Scheller,25,2002-01-12,24,Deutschland,192.0,beidfüßig,,FC St. Pauli II,,Innenverteidiger,2500000.0,2026,sc-paderborn-07
+525,Felix Götze,20,1998-02-11,28,Deutschland,185.0,rechts,,Rot-Weiss Essen,,Innenverteidiger,2000000.0,2026,sc-paderborn-07
+526,Marcel Hoffmeier,33,1999-07-15,27,Deutschland,182.0,rechts,2028-06-30,Preußen Münster,,Innenverteidiger,1000000.0,2026,sc-paderborn-07
+527,Nyamekye Awortwie-Grant,4,2000-08-07,25,Deutschland,193.0,rechts,,FC Energie Cottbus,,Innenverteidiger,400000.0,2026,sc-paderborn-07
+528,Tristan Zobel,,2003-10-04,22,Deutschland,195.0,links,2028-06-30,SC Paderborn 07 II,,Innenverteidiger,225000.0,2026,sc-paderborn-07
+529,Santiago Castañeda,5,2004-11-13,21,Vereinigte Staaten,191.0,rechts,2027-06-30,MSV Duisburg,,Defensives Mittelfeld,5000000.0,2026,sc-paderborn-07
+530,Tom Baack,6,1999-03-13,27,Deutschland,186.0,rechts,,1.FC Nürnberg,,Defensives Mittelfeld,600000.0,2026,sc-paderborn-07
+531,Mika Baur,14,2004-07-09,22,Deutschland,172.0,beidfüßig,,SC Freiburg II,100000.0,Zentrales Mittelfeld,5000000.0,2026,sc-paderborn-07
+532,Sebastian Klaas,26,1998-06-30,28,Deutschland,180.0,beidfüßig,,VfL Osnabrück,,Zentrales Mittelfeld,900000.0,2026,sc-paderborn-07
+533,Luka Duric,8,2003-06-18,23,Bosnien-Herzegowina,181.0,,,TSG 1899 Hoffenheim,250000.0,Zentrales Mittelfeld,800000.0,2026,sc-paderborn-07
+534,Timur Gayret,44,1998-08-08,27,Deutschland,176.0,links,2029-06-30,SC Verl,,Zentrales Mittelfeld,450000.0,2026,sc-paderborn-07
+535,Laurin Curda,17,2001-10-30,24,Deutschland,185.0,rechts,,TSG Balingen,,Rechtes Mittelfeld,3000000.0,2026,sc-paderborn-07
+536,Jano ter Horst,21,2002-06-19,24,Deutschland,184.0,rechts,,Preußen Münster,200000.0,Rechtes Mittelfeld,1200000.0,2026,sc-paderborn-07
+537,Clemens Lippmann,29,2006-06-29,20,Deutschland,183.0,rechts,,TSV 1860 München,,Rechtes Mittelfeld,400000.0,2026,sc-paderborn-07
+538,Raphael Obermair,23,1996-04-01,30,Philippinen,182.0,rechts,2027-06-30,1.FC Magdeburg,,Linkes Mittelfeld,1200000.0,2026,sc-paderborn-07
+539,Jonah Sticker,3,2004-05-08,22,Deutschland,180.0,rechts,,FC Viktoria Köln,,Linkes Mittelfeld,750000.0,2026,sc-paderborn-07
+540,Niklas Mohr,24,2004-07-23,22,Deutschland,179.0,links,2028-06-30,SG Sonnenhof Großaspach,,Linkes Mittelfeld,500000.0,2026,sc-paderborn-07
+541,Oliver Batista Meier,49,2001-02-16,25,Deutschland,180.0,rechts,,Preußen Münster,400000.0,Offensives Mittelfeld,1500000.0,2026,sc-paderborn-07
+542,Nick Bätzner,9,2000-03-15,26,Deutschland,176.0,rechts,2028-06-30,SV Wehen Wiesbaden,,Linksaußen,500000.0,2026,sc-paderborn-07
+543,Albert Millgramm,19,2004-11-12,21,Deutschland,,beidfüßig,,1.FC Magdeburg II,,Linksaußen,150000.0,2026,sc-paderborn-07
+544,Ruben Müller,2,2005-08-24,20,Deutschland,179.0,rechts,,SC Freiburg II,50000.0,Rechtsaußen,1000000.0,2026,sc-paderborn-07
+545,Sven Michel,11,1990-07-15,36,Deutschland,177.0,links,2027-06-30,FC Augsburg,300000.0,Rechtsaußen,300000.0,2026,sc-paderborn-07
+546,Kennedy Okpala,10,2004-12-17,21,Deutschland,185.0,rechts,,SV Waldhof Mannheim,550000.0,Mittelstürmer,1500000.0,2026,sc-paderborn-07
+547,Stefano Marino,30,2004-03-12,22,Deutschland,186.0,rechts,,Hannover 96 II,,Mittelstürmer,1000000.0,2026,sc-paderborn-07
+548,Steffen Tigges,27,1998-07-31,28,Deutschland,194.0,links,2027-06-30,1.FC Köln,400000.0,Mittelstürmer,700000.0,2026,sc-paderborn-07
+549,Lasse Eickel,32,2008-02-28,18,Deutschland,187.0,rechts,2031-06-30,SC Paderborn 07 II,,Mittelstürmer,150000.0,2026,sc-paderborn-07
