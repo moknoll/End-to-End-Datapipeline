@@ -36,8 +36,6 @@ def clean_transfer_value(value):
         return None
 
 def clean_height(height: str | None) -> int | None:
-    if pd.isna(height):
-        return None
     if height is None: 
         return None 
     if height == "-": 
@@ -46,7 +44,7 @@ def clean_height(height: str | None) -> int | None:
     height = height.replace(",", ".")
     return int(float(height) * 100)
 
-def clean_date(date: str |None)-> str |None: 
+def clean_date(date: str | None)-> str | None: 
     if date is None:
         return None
     if date == "-": 
@@ -58,8 +56,6 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
     # create a copy of dataframe
     df = df.copy()
 
-    # clean Unnamed data 
-    df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
     # transform to snake_case
     df.columns = df.columns.str.lower().str.replace(' ', '_')
 
