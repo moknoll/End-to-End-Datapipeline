@@ -1,6 +1,6 @@
 import pandas as pd
 from bs4 import BeautifulSoup
-from .base_parser import Parser
+from src.parsers.base_parser import Parser
 
 class PlayerParser(Parser): 
     def parse(self, soup: BeautifulSoup) -> pd.DataFrame: 

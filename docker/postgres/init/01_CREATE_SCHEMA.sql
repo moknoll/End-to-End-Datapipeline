@@ -1,6 +1,6 @@
 CREATE TABLE teams (
     team_id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    team_slug TEXT NOT NULL
+    team_name TEXT NOT NULL
 );
 
 CREATE TABLE players (

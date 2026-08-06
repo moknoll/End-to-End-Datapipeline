@@ -1,33 +1,50 @@
-PROJECT_NAME=football_pipeline
+COMPOSE = docker compose
 
 up:
-	docker compose up -d
+	$(COMPOSE) up
+
+# Erstes Starten
+build:
+	$(COMPOSE) up --build 
+
+# Logs verfolgen 
+logs:
+	$(COMPOSE) logs -f 
+
+# In den python container wechseln 
+shell:
+	$(COMPOSE) exec python bash
 
 down:
-	docker compose down
+	$(COMPOSE) down
 
-logs:
-	docker compose logs -f
-
-db-reset:
-	docker compose down -v
-	docker compose up -d
-
-run:
-	python3 ./src/main.py
+rebuild:
+	$(COMPOSE) down
+	$(COMPOSE) build --no-cache
+	$(COMPOSE) up
 
 pipeline:
-	docker compose up -d
-	python3 ./src/main.py
+	$(COMPOSE) exec python python main.py
 
 clean:
-	docker compose down
+	find . -type d -name "__pycache__" -exec rm -rf {} +
+	find . -type f -name "*.pyc" -delete
 
-fclean:
-	docker compose down -v
-	rm -rf __pycache__
-	rm -rf */__pycache__
+db-reset:
+	$(COMPOSE) down -v
+	$(COMPOSE) up --build
 
-re:
-	make fclean
-	make pipeline
+venv:
+	python3 -m venv venv
+	./venv/bin/pip install -r requirements.txt
+
+run:
+	python3 main.py
+
+lint:
+	ruff check .
+
+format:
+	black .
+
+.PHONY: up down build rebuild logs shell clean pipeline

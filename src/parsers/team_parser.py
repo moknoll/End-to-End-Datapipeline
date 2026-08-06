@@ -1,4 +1,4 @@
-from models.team import Team
+from src.models.team import Team
 from bs4 import BeautifulSoup
 
 def team_parser(soup: BeautifulSoup) -> list[Team]:

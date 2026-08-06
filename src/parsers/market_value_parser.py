@@ -1,4 +1,4 @@
-from .base_parser import Parser
+from src.parsers.base_parser import Parser
 import pandas as pd
 
 class MarketValueParser(Parser): 

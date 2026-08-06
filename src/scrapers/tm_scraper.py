@@ -1,10 +1,12 @@
-from bs4 import BeautifulSoup
-from dataclasses import dataclass
-from models.team import Team
-from parsers.base_parser import Parser
-from collections.abc import Sequence
 import pandas as pd
 import httpx 
+
+from src.utils.logger import logger
+from bs4 import BeautifulSoup
+from dataclasses import dataclass
+from src.models.team import Team
+from src.parsers.base_parser import Parser
+from collections.abc import Sequence
 
 @dataclass
 class TmScraper: 
@@ -19,7 +21,7 @@ class TmScraper:
     def run(self) -> pd.DataFrame: 
         """Run scraping proces"""
         url = self.url.format(name=self.team.name, id=self.team.id, year=self.year)
-        print(f"Scraping: {self.team.name} - {self.year}")
+        logger.info(f"Scraping: {self.team.name} - {self.year}")
         soup = self._get_soup_content(url)
         data = pd.concat(
             [parser.parse(soup) for parser in self.parsers], axis=1)
@@ -41,5 +43,5 @@ class TmScraper:
             response.raise_for_status()
             return response
         except httpx.HTTPError as e: 
-            print(f"HTTP error occured: {e}")
+            logger.error(f"HTTP error occured: {e}")
             raise e
