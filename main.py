@@ -13,23 +13,25 @@ def main():
     year=2026
     division="bundesliga"
     competition="L1"
-    csv=True
+    csv=False
 
     # Extract
-    teams = get_teams(division, year, competition)
-    raw_data = scrape_teams(teams=teams,parsers=(PlayerParser(), MarketValueParser()),year=year)
-    logger.info("All Teams Data scraped...starting data cleaning now.")
+    # teams = get_teams(division, year, competition)
+    teams = pd.read_csv("src/data/raw/teams.csv")
 
+    # raw_data = scrape_teams(teams=teams,parsers=(PlayerParser(), MarketValueParser()),year=year)
+    logger.info("All Teams Data scraped...starting data cleaning now.")
+    raw_data = pd.read_csv("src/data/raw/raw_tm_stats_bundesliga_2026.csv")
     # Transform
     data = clean_data(raw_data)
-    # data = pd.read_csv("src/data/processed/tm_stats_bundesliga_2026.csv")
+    
     print(data.columns)
     # Load
     load_db(data, teams)
 
     if csv == True: 
-        raw_data.to_csv(f"src/data/raw/raw_tm_stats_{division}_{year}.csv")
-        data.to_csv(f"src/data/processed/cleaned_tm_stats_{division}_{year}.csv")
+        raw_data.to_csv(f"src/data/raw/raw_tm_stats_{division}_{year}.csv", index=False)
+        data.to_csv(f"src/data/processed/cleaned_tm_stats_{division}_{year}.csv", index=False)
         logger.info("CSV file stored to data folder.")
     logger.info("ETL pipeline finished successfully.")
 

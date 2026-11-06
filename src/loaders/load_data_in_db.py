@@ -3,9 +3,8 @@ import pandas as pd
 from dotenv import load_dotenv
 from src.loaders.db_loader import PostgresLoader
 
-def load_db(data: pd.DataFrame, teams: str) -> None: 
+def load_db(data: pd.DataFrame, teams: pd.DataFrame) -> None: 
     """Get env from .env file and load data in databse"""
-
     URL = get_url()
     loader = PostgresLoader(URL)
     loader.load_teams(teams)

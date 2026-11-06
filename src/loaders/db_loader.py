@@ -5,17 +5,13 @@ class PostgresLoader:
     def __init__(self, connection_string: str):
         self.engine = create_engine(connection_string)
 
-    def load_teams(self, teams: list):
-        team_data = pd.DataFrame(
-            [
-                {
-                    "team_name": team.name,
-                }
-                for team in teams
-            ]
-        )
-
-        team_data.to_sql("teams",self.engine,if_exists="append",index=False,)
+    def load_teams(self, team_data: pd.DataFrame) -> None:
+        team_data.to_sql(
+        "teams",
+        self.engine,
+        if_exists="append",
+        index=False
+    )
     
     def get_team_mapping(self) -> dict:
         query = """
